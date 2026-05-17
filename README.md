@@ -54,6 +54,15 @@ Open `abstain_gemma_clean.ipynb` in Colab Pro (A100). Run all cells. ~10 minutes
 - **Similarity is heuristic.** Token-Jaccard + character 3-gram overlap.
 - **Self-consistency is necessary but not sufficient.** A model can be consistent AND wrong (e.g., misreading "062C" as "B062C"). Future work: combine with verifier models.
 
+## A note on reproducibility
+
+This repository contains a **cleaned, linear version** of the notebook
+used to produce the headline results. The working notebook used during 
+development was iterative and contained multiple exploratory experiments
+(different α values, model variants, similarity functions). The notebook
+published here reproduces the final, locked methodology — split conformal 
+at α=0.20 with normalization-robust similarity — and yields equivalent
+results to those reported in `final_report.json`.
 ## License
 
 Apache 2.0. Gemma 4 weights remain under [Gemma terms of use](https://ai.google.dev/gemma/terms).
