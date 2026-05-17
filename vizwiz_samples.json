@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 0,
+    "question": "Ok. There is another picture I hope it is a better one.",
+    "image_path": "vizwiz_imgs/000.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "cannot repair this computer automatically",
+      "blank screen"
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Can you tell me what this medicine is please?",
+    "image_path": "vizwiz_imgs/001.jpg",
+    "ground_truths": [
+      "no",
+      "unanswerable",
+      "night time",
+      "unanswerable",
+      "night time",
+      "night time cold medicine",
+      "night time",
+      "night time",
+      "night time",
+      "night time medicine"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the title of this book? ",
+    "image_path": "vizwiz_imgs/002.jpg",
+    "ground_truths": [
+      "dog years",
+      "dog years: memoir",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which one is the blue one?",
+    "image_path": "vizwiz_imgs/003.jpg",
+    "ground_truths": [
+      "right",
+      "right",
+      "right",
+      "omni sorb",
+      "right",
+      "1 on right",
+      "on right",
+      "right",
+      "right 1",
+      "right 1"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What does the arrow say?",
+    "image_path": "vizwiz_imgs/004.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "zoomtext",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "zoomtext"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What the screen says? Thank you.",
+    "image_path": "vizwiz_imgs/005.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "dell",
+      "windows 7",
+      "windows 7",
+      "dell windows home premium",
+      "windows 7 home premium",
+      "windows 7",
+      "unanswerable",
+      "windows dell"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is seen on the laptop screen? What is seen on the laptop screen?",
+    "image_path": "vizwiz_imgs/006.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Okay I think I got it this time. Can you read the model and serial number for me? Thanks.",
+    "image_path": "vizwiz_imgs/007.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Is this shampoo or conditioner?",
+    "image_path": "vizwiz_imgs/008.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Can you describe for me what's going on outside the window? Just curious.",
+    "image_path": "vizwiz_imgs/009.jpg",
+    "ground_truths": [
+      "store front",
+      "unanswerable",
+      "nothing going outside window just building windows sign to right",
+      "yes",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "sun shining on building on corner trees next to",
+      "building"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What about the signery.",
+    "image_path": "vizwiz_imgs/010.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "political",
+      "man",
+      "unanswerable",
+      "no clue",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "blue man in on building"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What color is this",
+    "image_path": "vizwiz_imgs/011.jpg",
+    "ground_truths": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "light purple",
+      "white",
+      "light purple",
+      "white"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "This piece of mail for and where is it from?",
+    "image_path": "vizwiz_imgs/012.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "cannot see full size envelope on this image",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Who is this mail for?",
+    "image_path": "vizwiz_imgs/013.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "dont know",
+      "unanswerable",
+      "unanswerable",
+      "no idea",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "What does my eye look like?",
+    "image_path": "vizwiz_imgs/014.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "crazy",
+      "unanswerable",
+      "unanswerable",
+      "shiny",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Which one of these items is the children's dictionary? Is it the one on the right, or the one on the left?",
+    "image_path": "vizwiz_imgs/015.jpg",
+    "ground_truths": [
+      "left",
+      "left",
+      "left",
+      "left",
+      "left",
+      "right",
+      "left",
+      "left",
+      "left",
+      "left"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "What is this?",
+    "image_path": "vizwiz_imgs/016.jpg",
+    "ground_truths": [
+      "finger",
+      "unanswerable",
+      "unanswerable",
+      "person",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "instructions",
+      "thumb",
+      "finger"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Can you see if this is 32 bit or 64 bit?  Thanks.",
+    "image_path": "vizwiz_imgs/017.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "32",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "What is the computer doing?",
+    "image_path": "vizwiz_imgs/018.jpg",
+    "ground_truths": [
+      "rebooting",
+      "repair mode",
+      "unanswerable",
+      "looks like rebooting",
+      "bios",
+      "booting up",
+      "loading",
+      "unanswerable",
+      "starting up",
+      "loading"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "What is the tag number?",
+    "image_path": "vizwiz_imgs/019.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "1545",
+      "1545",
+      "unanswerable",
+      "pp41l",
+      "unanswerable",
+      "model #: pp41l",
+      "unanswerable",
+      "unanswerable",
+      "1545"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "What does this sign say?",
+    "image_path": "vizwiz_imgs/020.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "What is this color and pattern? There's some sort of pattern on my left chest there. Describe. ",
+    "image_path": "vizwiz_imgs/021.jpg",
+    "ground_truths": [
+      "plain white uspa logo in gold",
+      "emblem polo rider initials uspa",
+      "brown uspa",
+      "brown white uspa",
+      "orange polo logo",
+      "red polo association brand logo",
+      "red uspa letters hiking man",
+      "white us polo",
+      "brown polo",
+      "brown on white polo rider letters"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Can you tell what this is?",
+    "image_path": "vizwiz_imgs/022.jpg",
+    "ground_truths": [
+      "bottle something dropper lid",
+      "unanswerable",
+      "bottle meds",
+      "some kind drops",
+      "dropper bottle",
+      "medicine",
+      "dropper bottle",
+      "yes",
+      "nose drops",
+      "bottle dropper"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Can you tell me what the error message is on the Windows screen?",
+    "image_path": "vizwiz_imgs/023.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "starting windows",
+      "starting windows",
+      "no",
+      "starting windows",
+      "unanswerable",
+      "no error windows starting up",
+      "no",
+      "starting windows",
+      "no error"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Sometimes it does this too.  It's great when it works, but when it doesn't, it's annoying.",
+    "image_path": "vizwiz_imgs/024.jpg",
+    "ground_truths": [
+      "doing disk check",
+      "unanswerable",
+      "check disk",
+      "unanswerable",
+      "unanswerable",
+      "computer update",
+      "error message on computer",
+      "unanswerable",
+      "disk check",
+      "chkdsk running"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "I was wondering how ominous the sky is looking here at the northwest.",
+    "image_path": "vizwiz_imgs/025.jpg",
+    "ground_truths": [
+      "fairly but could be worse",
+      "dark stormy",
+      "dark cloudy",
+      "unanswerable",
+      "possible rain",
+      "very ominous",
+      "looks pretty cloudy",
+      "very",
+      "ominous",
+      "looks like rain"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Can you tell me what these are please?",
+    "image_path": "vizwiz_imgs/026.jpg",
+    "ground_truths": [
+      "tablets",
+      "no i cant",
+      "pills",
+      "pills",
+      "unanswerable",
+      "tablets",
+      "citalopram 20mg tablets",
+      "20 mg tablets something",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "What type of pills are these?",
+    "image_path": "vizwiz_imgs/027.jpg",
+    "ground_truths": [
+      "medication",
+      "capsule",
+      "unanswerable",
+      "vitamins",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Is this a woman?>",
+    "image_path": "vizwiz_imgs/028.jpg",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "yes"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "What does it say?",
+    "image_path": "vizwiz_imgs/029.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "quit",
+      "for while force quit",
+      "unanswerable",
+      "for while quit",
+      "quit",
+      "quit",
+      "unanswerable",
+      "ond for while rce quit"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "What does that money say?",
+    "image_path": "vizwiz_imgs/030.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "puffy taco place tejano plate hamburger combo fish plate shrimp plate",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Can anyone tell me what's actually on the screen of the laptop?",
+    "image_path": "vizwiz_imgs/031.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "recovery screen some kind",
+      "samsung recovery solution",
+      "unanswerable",
+      "samsung recovery",
+      "unanswerable",
+      "unanswerable",
+      "recovery",
+      "recovery solution",
+      "recovery solution screen"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Can you tell me what this is a picture of?",
+    "image_path": "vizwiz_imgs/032.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "computer screen",
+      "web browser",
+      "unanswerable",
+      "computer screen",
+      "unanswerable",
+      "computer screen",
+      "splitscreen",
+      "computer screen",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Can you read the bottle on the screen?",
+    "image_path": "vizwiz_imgs/033.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "How big do you think my TV is? Thank you.",
+    "image_path": "vizwiz_imgs/034.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "32 inches",
+      "27 inches",
+      "unanswerable",
+      "22 inch",
+      "20 inch",
+      "30 inches",
+      "15 inches",
+      "32 inch",
+      "30 inch"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "What does this note say?",
+    "image_path": "vizwiz_imgs/035.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "What is the title of this book?",
+    "image_path": "vizwiz_imgs/036.jpg",
+    "ground_truths": [
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "unanswerable",
+      "dog years",
+      "unanswerable",
+      "dog years",
+      "dog years",
+      "dog years"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Hi, I just wanted to confirm that these are indeed pork chops. Any other information that is clear would be appreciated. Thank you.",
+    "image_path": "vizwiz_imgs/037.jpg",
+    "ground_truths": [
+      "yes",
+      "yes",
+      "yes kirkland signature pork chops",
+      "yes porkchops",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes loin chops",
+      "yes"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Please tell me what this is.",
+    "image_path": "vizwiz_imgs/038.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "too blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "duffel bag",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "What denomination is this?",
+    "image_path": "vizwiz_imgs/039.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "0 pictured",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "5"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Please tell me what is in this food packaging. I know it's a Tesco's Indian meal of some kind. ",
+    "image_path": "vizwiz_imgs/040.jpg",
+    "ground_truths": [
+      "indian beef rice",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "beef madras rice",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "What is this receipt about and is there a phone number?",
+    "image_path": "vizwiz_imgs/041.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unsure",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "What does this fortune cookie say?",
+    "image_path": "vizwiz_imgs/042.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "too blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Tell me what's in this photo.",
+    "image_path": "vizwiz_imgs/043.jpg",
+    "ground_truths": [
+      "part person",
+      "unanswerable",
+      "person",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "person in kitchen",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Able on my vacuum I need the serial number and model number.",
+    "image_path": "vizwiz_imgs/044.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "too blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What is the expiration date on this bus pass?",
+    "image_path": "vizwiz_imgs/045.jpg",
+    "ground_truths": [
+      "jul 08 11",
+      "unanswerable",
+      "blurry",
+      "july 08 11",
+      "jul 08 11",
+      "july 8 2011",
+      "unanswerable",
+      "unanswerable",
+      "jul 0811",
+      "july 8 2011"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "How big is my TV and what is on the screen, and what is the model number, and what brand is it?",
+    "image_path": "vizwiz_imgs/046.jpg",
+    "ground_truths": [
+      "32 inch sporting event unanswerable for rest",
+      "unanswerable",
+      "unsure",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "what is this we taking a picture of?",
+    "image_path": "vizwiz_imgs/047.jpg",
+    "ground_truths": [
+      "boobs",
+      "unanswerable",
+      "boobs",
+      "chest",
+      "fingers floral fabric part green shirt button pocket",
+      "chest",
+      "clothing",
+      "cleavage",
+      "shirts",
+      "shirt"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "What store is this?",
+    "image_path": "vizwiz_imgs/048.jpg",
+    "ground_truths": [
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "pancake house",
+      "pancake house"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "What kind of pop is this?",
+    "image_path": "vizwiz_imgs/049.jpg",
+    "ground_truths": [
+      "nestea",
+      "unanswerable",
+      "nestle tea",
+      "unanswerable",
+      "orange nestea",
+      "orange juice",
+      "unanswerable",
+      "nestea",
+      "orange",
+      "nestle"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Screen showing.",
+    "image_path": "vizwiz_imgs/050.jpg",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "words"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "What letters am I supposed to enter in to claim the prize?",
+    "image_path": "vizwiz_imgs/051.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Can you tell me if there is a model on here please? Thank you.",
+    "image_path": "vizwiz_imgs/052.jpg",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "wertell",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "yes"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Hello there, are you able to see what's on this LCD screen and if it's expecting any input from the user, as in, does it have a next button, back button?",
+    "image_path": "vizwiz_imgs/053.jpg",
+    "ground_truths": [
+      "no",
+      "no cant see",
+      "yes",
+      "unanswerable",
+      "yes has back next button",
+      "unanswerable",
+      "yes however words illegible",
+      "yes",
+      "error alert dialog box 2 buttons ok cancel",
+      "yes yes"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "What's the name of the drink?",
+    "image_path": "vizwiz_imgs/054.jpg",
+    "ground_truths": [
+      "irnbru",
+      "irn bru",
+      "irnbru barr",
+      "barr irn bru sugar free",
+      "barr irn bru sugar free",
+      "irn bru",
+      "irn bru",
+      "irn barr bru",
+      "irn barr bru sugar free",
+      "irn bru"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Where do you think I could get a power cord? ",
+    "image_path": "vizwiz_imgs/055.jpg",
+    "ground_truths": [
+      "forest hill maryland",
+      "amazon",
+      "biazie engineering",
+      "blaze engineering",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "any hardware store",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Specials on this menu.",
+    "image_path": "vizwiz_imgs/056.jpg",
+    "ground_truths": [
+      "beef seafood",
+      "dont see any",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "shrimp"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "What is on the pillowcase?",
+    "image_path": "vizwiz_imgs/057.jpg",
+    "ground_truths": [
+      "texas logo",
+      "sports team logo",
+      "texas",
+      "texas longhorns",
+      "texas",
+      "texas",
+      "texas longhorn",
+      "texas",
+      "texas",
+      "texas"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "I cannot move the camera slightly closer to the monitor.",
+    "image_path": "vizwiz_imgs/058.jpg",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "What does the label say on this electronic component?",
+    "image_path": "vizwiz_imgs/059.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "seagate"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Please tell me the them of this book",
+    "image_path": "vizwiz_imgs/060.jpg",
+    "ground_truths": [
+      "clive cussler dirk cussler",
+      "unanswerable",
+      "clive cussler dirk cussler",
+      "clive cussler dirk cussler",
+      "sci fy",
+      "suspense",
+      "olive cussler dirk cussler",
+      "action",
+      "unanswerable",
+      "clive cussler"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "What is this?",
+    "image_path": "vizwiz_imgs/061.jpg",
+    "ground_truths": [
+      "email tab",
+      "desktop",
+      "close up computer screen",
+      "computer screen",
+      "computer screen",
+      "program window",
+      "computer screen",
+      "unanswerable",
+      "screen",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "What website is this?",
+    "image_path": "vizwiz_imgs/062.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "site about iphone in app purchases"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Alright see if you can see the ORCA serial number now.",
+    "image_path": "vizwiz_imgs/063.jpg",
+    "ground_truths": [
+      "no serial number",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "What is the person doing?",
+    "image_path": "vizwiz_imgs/064.jpg",
+    "ground_truths": [
+      "looking at computer screen",
+      "watching computer screen",
+      "working on computer",
+      "looking at computer",
+      "sitting",
+      "looking at computer",
+      "sitting at computer",
+      "looking at screen",
+      "computing",
+      "sitting at desktop computer on desk"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Could you please tell me what's on my screen?  ",
+    "image_path": "vizwiz_imgs/065.jpg",
+    "ground_truths": [
+      "no",
+      "white black screen",
+      "unanswerable",
+      "unanswerable",
+      "white box",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "blank",
+      "pop up without options text"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Product key for this version of Office.",
+    "image_path": "vizwiz_imgs/066.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "yes",
+      "cannot read product key",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "yes"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "What's the website?",
+    "image_path": "vizwiz_imgs/067.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "cannot read url image too far away",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "geeks on leash"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "What does the screen say?",
+    "image_path": "vizwiz_imgs/068.jpg",
+    "ground_truths": [
+      "windows please",
+      "unanswerable",
+      "unanswerable",
+      "image cutoff cant read",
+      "unanswerable",
+      "please wait",
+      "unanswerable",
+      "unanswerable",
+      "windows",
+      "please wait windows"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Can you tell me what this bottle says?",
+    "image_path": "vizwiz_imgs/069.jpg",
+    "ground_truths": [
+      "warm vanilla sugar",
+      "sugar",
+      "warm vanilla sugar",
+      "warm vanilla sugar",
+      "warm vanilla sugar body lotion",
+      "warm vanila sugar",
+      "warm vanilla sugar body lotion",
+      "warm vanilla sugar",
+      "warm vanilla sugar body lotion",
+      "warm vanilla sugar"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "About this one, thank you.",
+    "image_path": "vizwiz_imgs/070.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "What is this item",
+    "image_path": "vizwiz_imgs/071.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "plastic case",
+      "cellphone",
+      "legs",
+      "receipt",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "medical product code number"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "what does the sky look like in this photograph",
+    "image_path": "vizwiz_imgs/072.jpg",
+    "ground_truths": [
+      "cloudy",
+      "blue sky some clouds",
+      "blue few clouds",
+      "blue",
+      "clear",
+      "sunny",
+      "clear",
+      "clear",
+      "cloudy",
+      "partly cloudy sky"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Can you tell me what this screen says?",
+    "image_path": "vizwiz_imgs/073.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "windows repair",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "loading screen",
+      "image too far away to read"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Product key for this version of office?",
+    "image_path": "vizwiz_imgs/074.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Is there anything on the screen?",
+    "image_path": "vizwiz_imgs/075.jpg",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "install mac computer",
+      "install mac",
+      "install mac",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Business card.",
+    "image_path": "vizwiz_imgs/076.jpg",
+    "ground_truths": [
+      "no",
+      "unanswerable",
+      "blurry not plan",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "What's on my computer screen?",
+    "image_path": "vizwiz_imgs/077.jpg",
+    "ground_truths": [
+      "pop up window",
+      "error message",
+      "white card blue line",
+      "unanswerable",
+      "unanswerable",
+      "open window",
+      "unanswerable",
+      "white box",
+      "box",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Can see what's on the screen, like is it a log in screen or anything like that? Thank you.",
+    "image_path": "vizwiz_imgs/078.jpg",
+    "ground_truths": [
+      "no",
+      "error message",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "insert password reset disk dialog box",
+      "yes"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "What is this a medal for?",
+    "image_path": "vizwiz_imgs/079.jpg",
+    "ground_truths": [
+      "america cancer society",
+      "cancer",
+      "running",
+      "unanswerable",
+      "cancer society",
+      "american cancer society",
+      "american cancer society relay for life",
+      "american cancer society",
+      "american cancer society",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "What is this show? ",
+    "image_path": "vizwiz_imgs/080.jpg",
+    "ground_truths": [
+      "news stream",
+      "csi: crime scene investigation",
+      "csi crime scene investigation",
+      "csi",
+      "csi: crime scene investigation",
+      "unanswerable",
+      "csi",
+      "unanswerable",
+      "csi crime scene investigation",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Please tell me the title of this book, thank you for your time.",
+    "image_path": "vizwiz_imgs/081.jpg",
+    "ground_truths": [
+      "crescent dawn",
+      "unanswerable",
+      "unanswerable",
+      "sea greed",
+      "clive cussle dirk cuss",
+      "unanswerable",
+      "unanswerable",
+      "olive cussler dirk cussler",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Is my computer performing a disc check? For example, does it say on the screen, \\Checking files system\\, or \\Stage one of four\\ or some such? Thank you. ",
+    "image_path": "vizwiz_imgs/082.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unclear",
+      "unanswerable",
+      "unanswerable",
+      "yes"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Which one of the three images is the Google logo?",
+    "image_path": "vizwiz_imgs/083.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "0",
+      "first",
+      "unanswerable",
+      "1 that say google"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "IS there a picture on this tv screen?",
+    "image_path": "vizwiz_imgs/084.jpg",
+    "ground_truths": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "windows icon"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "please explain what is on this piece of paper",
+    "image_path": "vizwiz_imgs/085.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "stress advertisement",
+      "stress relieve instructions",
+      "talks about stress relief",
+      "unanswerable",
+      "unanswerable",
+      "tips to manage stress",
+      "stress",
+      "managing stress eating right",
+      "how to heal stress"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "What bill is this?",
+    "image_path": "vizwiz_imgs/086.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unclear",
+      "10",
+      "unanswerable",
+      "paper"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "What are the cooking instructions for this?",
+    "image_path": "vizwiz_imgs/087.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "0",
+      "unanswerable",
+      "unanswerable",
+      "0"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Is there a button I need to press to make it resume? Or do I just wait?",
+    "image_path": "vizwiz_imgs/088.jpg",
+    "ground_truths": [
+      "system resume",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "wait",
+      "plug in"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "What does the screen say?",
+    "image_path": "vizwiz_imgs/089.jpg",
+    "ground_truths": [
+      "file",
+      "unanswerable",
+      "expanding windows filters",
+      "thats all information we need right now your computer will resume installation",
+      "unanswerable",
+      "unanswerable",
+      "windows",
+      "unanswerable",
+      "unanswerable",
+      "expanding windows files"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Is the dialogue more visible in that picture?",
+    "image_path": "vizwiz_imgs/090.jpg",
+    "ground_truths": [
+      "bored",
+      "yes",
+      "no",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "What does the small label on this disc say?",
+    "image_path": "vizwiz_imgs/091.jpg",
+    "ground_truths": [
+      "3d disk",
+      "unanswerable",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "unanswerable",
+      "prop quartics inc"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "The previous screen presented country, timezone, currency and keyboard and I went ahead and after I got a response from the web worker I selected Alt-N followed by next so I'm not sure if I ",
+    "image_path": "vizwiz_imgs/092.jpg",
+    "ground_truths": [
+      "windows",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Is this picture clear, and where are we now?",
+    "image_path": "vizwiz_imgs/093.jpg",
+    "ground_truths": [
+      "card",
+      "unanswerable",
+      "no",
+      "yes unanswerable",
+      "yes on windows repair screen",
+      "no",
+      "no",
+      "unanswerable",
+      "yes",
+      "yes hit close"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Can you please tell me what the computer screen says within in the VMware workstation window?  Particular to see if there's any progress on the Windows installation.",
+    "image_path": "vizwiz_imgs/094.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "windows install now screen",
+      "unanswerable",
+      "windows",
+      "no",
+      "windows logo no progress bar",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Can you see what's on the screen?",
+    "image_path": "vizwiz_imgs/095.jpg",
+    "ground_truths": [
+      "you sure you want to cancel",
+      "unanswerable",
+      "confirm cancel notification",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Is this caffeinated or decaffeinated?",
+    "image_path": "vizwiz_imgs/096.jpg",
+    "ground_truths": [
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "unanswerable",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Can you tell me if there's any local Seattle beers on this menu?",
+    "image_path": "vizwiz_imgs/097.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "What is the model number of the computer?",
+    "image_path": "vizwiz_imgs/098.jpg",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Alright. If you could tell what the screen says, that would be helpful, thank you",
+    "image_path": "vizwiz_imgs/099.jpg",
+    "ground_truths": [
+      "iniciar el escaneo de",
+      "iniciar el escaneo",
+      "unanswerable",
+      "spanish text",
+      "iniciar el escaneo de cable",
+      "unanswerable",
+      "inciar el escaneo de",
+      "unanswerable",
+      "elija",
+      "unanswerable"
+    ]
+  }
+]

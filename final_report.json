@@ -1,0 +1,74 @@
+{
+  "methodology": "Split conformal prediction with self-consistency (normalization-robust similarity)",
+  "model": "google/gemma-4-E4B-it",
+  "datasets": {
+    "vizwiz": 100,
+    "okvqa": 100
+  },
+  "calibration_set_size": 140,
+  "test_set_size": 60,
+  "recommended_alpha": 0.2,
+  "tau": 0.582,
+  "baseline_accuracy": 0.5667,
+  "abstain_accuracy": 0.7895,
+  "abstention_rate": 0.3667,
+  "absolute_improvement_pp": 22.28,
+  "trust_coverage_curve": [
+    {
+      "alpha": 0.1,
+      "tau": 0.358,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.6111,
+      "abstention_rate": 0.1,
+      "gain_pp": 4.44
+    },
+    {
+      "alpha": 0.15,
+      "tau": 0.47,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.7442,
+      "abstention_rate": 0.2833,
+      "gain_pp": 17.75
+    },
+    {
+      "alpha": 0.2,
+      "tau": 0.582,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.7895,
+      "abstention_rate": 0.3667,
+      "gain_pp": 22.28
+    },
+    {
+      "alpha": 0.25,
+      "tau": 0.7,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.8,
+      "abstention_rate": 0.5,
+      "gain_pp": 23.33
+    },
+    {
+      "alpha": 0.3,
+      "tau": 0.833,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.7931,
+      "abstention_rate": 0.5167,
+      "gain_pp": 22.64
+    },
+    {
+      "alpha": 0.35,
+      "tau": 0.853,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.7857,
+      "abstention_rate": 0.5333,
+      "gain_pp": 21.9
+    },
+    {
+      "alpha": 0.4,
+      "tau": 1.0,
+      "baseline_acc": 0.5667,
+      "abstain_acc": 0.7857,
+      "abstention_rate": 0.5333,
+      "gain_pp": 21.9
+    }
+  ]
+}

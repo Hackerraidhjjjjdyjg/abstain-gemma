@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 0,
+    "question": "Ok. There is another picture I hope it is a better one.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "cannot repair this computer automatically",
+      "blank screen"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 1,
+    "question": "Can you tell me what this medicine is please?",
+    "ground_truths": [
+      "no",
+      "unanswerable",
+      "night time",
+      "unanswerable",
+      "night time",
+      "night time cold medicine",
+      "night time",
+      "night time",
+      "night time",
+      "night time medicine"
+    ],
+    "prediction": "Night Time supplement",
+    "stochastic_samples": [
+      "Night Time supplement",
+      "Night Time supplement.",
+      "Night Time supplement",
+      "Night Time supplement"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the title of this book? ",
+    "ground_truths": [
+      "dog years",
+      "dog years: memoir",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years"
+    ],
+    "prediction": "Years Ark",
+    "stochastic_samples": [
+      "Long Years",
+      "[Years] ark",
+      "Long Years",
+      "Years Mark"
+    ],
+    "self_consistency": 0.463,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "question": "Which one is the blue one?",
+    "ground_truths": [
+      "right",
+      "right",
+      "right",
+      "omni sorb",
+      "right",
+      "1 on right",
+      "on right",
+      "right",
+      "right 1",
+      "right 1"
+    ],
+    "prediction": "The bottom one is blue.",
+    "stochastic_samples": [
+      "The bottom one is blue.",
+      "The bottom one.",
+      "The lower one is blue.",
+      "The bottom one is blue."
+    ],
+    "self_consistency": 0.653,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "question": "What does the arrow say?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "zoomtext",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "zoomtext"
+    ],
+    "prediction": "The arrow says \"OK\".",
+    "stochastic_samples": [
+      "The arrow says \"OK\".",
+      "The arrow says \"Z\".",
+      "No arrow visible.",
+      "The arrow says \"OK\"."
+    ],
+    "self_consistency": 0.506,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "question": "What the screen says? Thank you.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "dell",
+      "windows 7",
+      "windows 7",
+      "dell windows home premium",
+      "windows 7 home premium",
+      "windows 7",
+      "unanswerable",
+      "windows dell"
+    ],
+    "prediction": "Windows Home Premium",
+    "stochastic_samples": [
+      "Windows Home Premium",
+      "Windows Home Premium setup",
+      "Windows Home Premium setup",
+      "Windows Home Premium"
+    ],
+    "self_consistency": 0.841,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "question": "What is seen on the laptop screen? What is seen on the laptop screen?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "question": "Okay I think I got it this time. Can you read the model and serial number for me? Thanks.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "question": "Is this shampoo or conditioner?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 9,
+    "question": "Can you describe for me what's going on outside the window? Just curious.",
+    "ground_truths": [
+      "store front",
+      "unanswerable",
+      "nothing going outside window just building windows sign to right",
+      "yes",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "sun shining on building on corner trees next to",
+      "building"
+    ],
+    "prediction": "Buildings and trees visible.",
+    "stochastic_samples": [
+      "Buildings and trees visible.",
+      "Buildings and street scene.",
+      "Buildings and trees visible.",
+      "Buildings and trees visible."
+    ],
+    "self_consistency": 0.694,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "question": "What about the signery.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "political",
+      "man",
+      "unanswerable",
+      "no clue",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "blue man in on building"
+    ],
+    "prediction": "Large billboard visible.",
+    "stochastic_samples": [
+      "Large billboard visible.",
+      "Large billboard visible",
+      "Billboard advertising a person.",
+      "A large billboard."
+    ],
+    "self_consistency": 0.507,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "question": "What color is this",
+    "ground_truths": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "light purple",
+      "white",
+      "light purple",
+      "white"
+    ],
+    "prediction": "White and purple",
+    "stochastic_samples": [
+      "White and purple",
+      "White and purple",
+      "White and purple",
+      "White and purple"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 12,
+    "question": "This piece of mail for and where is it from?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "cannot see full size envelope on this image",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "question": "Who is this mail for?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "dont know",
+      "unanswerable",
+      "unanswerable",
+      "no idea",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 14,
+    "question": "What does my eye look like?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "crazy",
+      "unanswerable",
+      "unanswerable",
+      "shiny",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 15,
+    "question": "Which one of these items is the children's dictionary? Is it the one on the right, or the one on the left?",
+    "ground_truths": [
+      "left",
+      "left",
+      "left",
+      "left",
+      "left",
+      "right",
+      "left",
+      "left",
+      "left",
+      "left"
+    ],
+    "prediction": "The one on the left.",
+    "stochastic_samples": [
+      "The one on the left.",
+      "The one on the left.",
+      "The one on the left.",
+      "The one on the left."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 16,
+    "question": "What is this?",
+    "ground_truths": [
+      "finger",
+      "unanswerable",
+      "unanswerable",
+      "person",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "instructions",
+      "thumb",
+      "finger"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 17,
+    "question": "Can you see if this is 32 bit or 64 bit?  Thanks.",
+    "ground_truths": [
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "32",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 18,
+    "question": "What is the computer doing?",
+    "ground_truths": [
+      "rebooting",
+      "repair mode",
+      "unanswerable",
+      "looks like rebooting",
+      "bios",
+      "booting up",
+      "loading",
+      "unanswerable",
+      "starting up",
+      "loading"
+    ],
+    "prediction": "Booting up computer.",
+    "stochastic_samples": [
+      "Booting up the computer.",
+      "Booting up computer.",
+      "Booting up computer",
+      "Booting up operating system"
+    ],
+    "self_consistency": 0.606,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "question": "What is the tag number?",
+    "ground_truths": [
+      "unanswerable",
+      "1545",
+      "1545",
+      "unanswerable",
+      "pp41l",
+      "unanswerable",
+      "model #: pp41l",
+      "unanswerable",
+      "unanswerable",
+      "1545"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 20,
+    "question": "What does this sign say?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Starbucks Reserve Coffee",
+    "stochastic_samples": [
+      "Skyview Coffee",
+      "Starbucks Coffee",
+      "VIVOX COFFEE",
+      "Starbucks Reserve Roastery"
+    ],
+    "self_consistency": 0.208,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 21,
+    "question": "What is this color and pattern? There's some sort of pattern on my left chest there. Describe. ",
+    "ground_truths": [
+      "plain white uspa logo in gold",
+      "emblem polo rider initials uspa",
+      "brown uspa",
+      "brown white uspa",
+      "orange polo logo",
+      "red polo association brand logo",
+      "red uspa letters hiking man",
+      "white us polo",
+      "brown polo",
+      "brown on white polo rider letters"
+    ],
+    "prediction": "Brown silhouette logo",
+    "stochastic_samples": [
+      "Brown graphic and text",
+      "Brown silhouette and text",
+      "Brown silhouette logo.",
+      "Orange graphic, light blue"
+    ],
+    "self_consistency": 0.244,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 22,
+    "question": "Can you tell what this is?",
+    "ground_truths": [
+      "bottle something dropper lid",
+      "unanswerable",
+      "bottle meds",
+      "some kind drops",
+      "dropper bottle",
+      "medicine",
+      "dropper bottle",
+      "yes",
+      "nose drops",
+      "bottle dropper"
+    ],
+    "prediction": "Essential oil bottle",
+    "stochastic_samples": [
+      "Essential oil bottle",
+      "Essential oil bottle",
+      "Essential oil bottle",
+      "Essential oil bottle"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "question": "Can you tell me what the error message is on the Windows screen?",
+    "ground_truths": [
+      "unanswerable",
+      "starting windows",
+      "starting windows",
+      "no",
+      "starting windows",
+      "unanswerable",
+      "no error windows starting up",
+      "no",
+      "starting windows",
+      "no error"
+    ],
+    "prediction": "Starting Windows",
+    "stochastic_samples": [
+      "Starting Windows",
+      "Starting Windows",
+      "Starting Windows",
+      "Starting Windows"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 24,
+    "question": "Sometimes it does this too.  It's great when it works, but when it doesn't, it's annoying.",
+    "ground_truths": [
+      "doing disk check",
+      "unanswerable",
+      "check disk",
+      "unanswerable",
+      "unanswerable",
+      "computer update",
+      "error message on computer",
+      "unanswerable",
+      "disk check",
+      "chkdsk running"
+    ],
+    "prediction": "Unanswerable",
+    "stochastic_samples": [
+      "Unanswerable",
+      "Unanswerable",
+      "Disk check process.",
+      "Disk check error message"
+    ],
+    "self_consistency": 0.233,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "question": "I was wondering how ominous the sky is looking here at the northwest.",
+    "ground_truths": [
+      "fairly but could be worse",
+      "dark stormy",
+      "dark cloudy",
+      "unanswerable",
+      "possible rain",
+      "very ominous",
+      "looks pretty cloudy",
+      "very",
+      "ominous",
+      "looks like rain"
+    ],
+    "prediction": "Very ominous and stormy.",
+    "stochastic_samples": [
+      "Very ominous looking.",
+      "Very ominous and stormy.",
+      "Very ominous, stormy.",
+      "Very ominous and stormy."
+    ],
+    "self_consistency": 0.633,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "question": "Can you tell me what these are please?",
+    "ground_truths": [
+      "tablets",
+      "no i cant",
+      "pills",
+      "pills",
+      "unanswerable",
+      "tablets",
+      "citalopram 20mg tablets",
+      "20 mg tablets something",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Medication tablets",
+    "stochastic_samples": [
+      "Medication tablets",
+      "Medication tablets",
+      "Medication tablets",
+      "Medication tablets"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 27,
+    "question": "What type of pills are these?",
+    "ground_truths": [
+      "medication",
+      "capsule",
+      "unanswerable",
+      "vitamins",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 28,
+    "question": "Is this a woman?>",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "yes"
+    ],
+    "prediction": "Yes, it is.",
+    "stochastic_samples": [
+      "Yes, it is.",
+      "Yes, it is.",
+      "Yes, it is.",
+      "Yes, it is."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 29,
+    "question": "What does it say?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "quit",
+      "for while force quit",
+      "unanswerable",
+      "for while quit",
+      "quit",
+      "quit",
+      "unanswerable",
+      "ond for while rce quit"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "Unanswerable",
+      "unanswerable",
+      "Unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 30,
+    "question": "What does that money say?",
+    "ground_truths": [
+      "unanswerable",
+      "puffy taco place tejano plate hamburger combo fish plate shrimp plate",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 31,
+    "question": "Can anyone tell me what's actually on the screen of the laptop?",
+    "ground_truths": [
+      "unanswerable",
+      "recovery screen some kind",
+      "samsung recovery solution",
+      "unanswerable",
+      "samsung recovery",
+      "unanswerable",
+      "unanswerable",
+      "recovery",
+      "recovery solution",
+      "recovery solution screen"
+    ],
+    "prediction": "Samsung Recovery Solution 4",
+    "stochastic_samples": [
+      "Samsung Recovery Solution 4",
+      "Samsung Recovery Solution 4",
+      "Samsung Recovery Solution 4",
+      "Samsung Recovery Solution 4"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 32,
+    "question": "Can you tell me what this is a picture of?",
+    "ground_truths": [
+      "unanswerable",
+      "computer screen",
+      "web browser",
+      "unanswerable",
+      "computer screen",
+      "unanswerable",
+      "computer screen",
+      "splitscreen",
+      "computer screen",
+      "unanswerable"
+    ],
+    "prediction": "Software interface screen",
+    "stochastic_samples": [
+      "Software interface screen",
+      "Software interface screen",
+      "Computer interface screenshot",
+      "Software interface screen"
+    ],
+    "self_consistency": 0.703,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 33,
+    "question": "Can you read the bottle on the screen?",
+    "ground_truths": [
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 34,
+    "question": "How big do you think my TV is? Thank you.",
+    "ground_truths": [
+      "unanswerable",
+      "32 inches",
+      "27 inches",
+      "unanswerable",
+      "22 inch",
+      "20 inch",
+      "30 inches",
+      "15 inches",
+      "32 inch",
+      "30 inch"
+    ],
+    "prediction": "Around 32 inches.",
+    "stochastic_samples": [
+      "Around 32 inches.",
+      "About 32-40 inches.",
+      "About 32-40 inches.",
+      "Around 32 inches."
+    ],
+    "self_consistency": 0.6,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 35,
+    "question": "What does this note say?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 36,
+    "question": "What is the title of this book?",
+    "ground_truths": [
+      "dog years",
+      "dog years",
+      "dog years",
+      "dog years",
+      "unanswerable",
+      "dog years",
+      "unanswerable",
+      "dog years",
+      "dog years",
+      "dog years"
+    ],
+    "prediction": "Years",
+    "stochastic_samples": [
+      "Years ark",
+      "Years Ark",
+      "Years",
+      "Years"
+    ],
+    "self_consistency": 0.667,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "question": "Hi, I just wanted to confirm that these are indeed pork chops. Any other information that is clear would be appreciated. Thank you.",
+    "ground_truths": [
+      "yes",
+      "yes",
+      "yes kirkland signature pork chops",
+      "yes porkchops",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes loin chops",
+      "yes"
+    ],
+    "prediction": "Yes, pork chops.",
+    "stochastic_samples": [
+      "Yes, they are pork.",
+      "Yes, pork chops.",
+      "Yes, pork chops.",
+      "Yes, pork chops."
+    ],
+    "self_consistency": 0.7,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 38,
+    "question": "Please tell me what this is.",
+    "ground_truths": [
+      "unanswerable",
+      "too blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "duffel bag",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 39,
+    "question": "What denomination is this?",
+    "ground_truths": [
+      "unanswerable",
+      "0 pictured",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "5"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "question": "Please tell me what is in this food packaging. I know it's a Tesco's Indian meal of some kind. ",
+    "ground_truths": [
+      "indian beef rice",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "beef madras rice",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 41,
+    "question": "What is this receipt about and is there a phone number?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unsure",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Unanswerable",
+    "stochastic_samples": [
+      "Unanswerable",
+      "Unanswerable",
+      "Unanswerable",
+      "Unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 42,
+    "question": "What does this fortune cookie say?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "too blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "question": "Tell me what's in this photo.",
+    "ground_truths": [
+      "part person",
+      "unanswerable",
+      "person",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "person in kitchen",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 44,
+    "question": "Able on my vacuum I need the serial number and model number.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "too blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 45,
+    "question": "What is the expiration date on this bus pass?",
+    "ground_truths": [
+      "jul 08 11",
+      "unanswerable",
+      "blurry",
+      "july 08 11",
+      "jul 08 11",
+      "july 8 2011",
+      "unanswerable",
+      "unanswerable",
+      "jul 0811",
+      "july 8 2011"
+    ],
+    "prediction": "1-08-11",
+    "stochastic_samples": [
+      "1-08-11",
+      "1-08-11",
+      "1-08-11",
+      "1-08-11"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 46,
+    "question": "How big is my TV and what is on the screen, and what is the model number, and what brand is it?",
+    "ground_truths": [
+      "32 inch sporting event unanswerable for rest",
+      "unanswerable",
+      "unsure",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 47,
+    "question": "what is this we taking a picture of?",
+    "ground_truths": [
+      "boobs",
+      "unanswerable",
+      "boobs",
+      "chest",
+      "fingers floral fabric part green shirt button pocket",
+      "chest",
+      "clothing",
+      "cleavage",
+      "shirts",
+      "shirt"
+    ],
+    "prediction": "A person's torso",
+    "stochastic_samples": [
+      "A person's torso",
+      "Clothing and torso",
+      "A person's torso",
+      "A person's torso"
+    ],
+    "self_consistency": 0.583,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 48,
+    "question": "What store is this?",
+    "ground_truths": [
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "original pancake house",
+      "pancake house",
+      "pancake house"
+    ],
+    "prediction": "The Original Pancake House",
+    "stochastic_samples": [
+      "The Original Pancake House",
+      "The Original Pancake House",
+      "The Original Pancake House",
+      "The Original Pancake House"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "question": "What kind of pop is this?",
+    "ground_truths": [
+      "nestea",
+      "unanswerable",
+      "nestle tea",
+      "unanswerable",
+      "orange nestea",
+      "orange juice",
+      "unanswerable",
+      "nestea",
+      "orange",
+      "nestle"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 50,
+    "question": "Screen showing.",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "words"
+    ],
+    "prediction": "Smartphone menu screen",
+    "stochastic_samples": [
+      "Android music player",
+      "Phone menu screen",
+      "Phone interface screen",
+      "Smartphone menu screen"
+    ],
+    "self_consistency": 0.244,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 51,
+    "question": "What letters am I supposed to enter in to claim the prize?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 52,
+    "question": "Can you tell me if there is a model on here please? Thank you.",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "wertell",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "yes"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 53,
+    "question": "Hello there, are you able to see what's on this LCD screen and if it's expecting any input from the user, as in, does it have a next button, back button?",
+    "ground_truths": [
+      "no",
+      "no cant see",
+      "yes",
+      "unanswerable",
+      "yes has back next button",
+      "unanswerable",
+      "yes however words illegible",
+      "yes",
+      "error alert dialog box 2 buttons ok cancel",
+      "yes yes"
+    ],
+    "prediction": "Unanswerable",
+    "stochastic_samples": [
+      "Unanswerable.",
+      "Unanswerable",
+      "Unanswerable",
+      "Unanswerable."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 54,
+    "question": "What's the name of the drink?",
+    "ground_truths": [
+      "irnbru",
+      "irn bru",
+      "irnbru barr",
+      "barr irn bru sugar free",
+      "barr irn bru sugar free",
+      "irn bru",
+      "irn bru",
+      "irn barr bru",
+      "irn barr bru sugar free",
+      "irn bru"
+    ],
+    "prediction": "IRN BRU",
+    "stochastic_samples": [
+      "IRNBru Sugar Free",
+      "IRNBRO Sugar Free",
+      "IRNBRO SUGAR FREE",
+      "IRN BRU"
+    ],
+    "self_consistency": 0.498,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 55,
+    "question": "Where do you think I could get a power cord? ",
+    "ground_truths": [
+      "forest hill maryland",
+      "amazon",
+      "biazie engineering",
+      "blaze engineering",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "any hardware store",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Electronics store.",
+    "stochastic_samples": [
+      "Electronics store or online.",
+      "Electronics store or online.",
+      "Electronics store or online.",
+      "Electronics store."
+    ],
+    "self_consistency": 0.833,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 56,
+    "question": "Specials on this menu.",
+    "ground_truths": [
+      "beef seafood",
+      "dont see any",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "shrimp"
+    ],
+    "prediction": "Beef, Seafood, Fish",
+    "stochastic_samples": [
+      "Beef and Seafood specials",
+      "Beef, Seafood, Fish & Chips",
+      "Beef, seafood, fish",
+      "Beef and seafood specials"
+    ],
+    "self_consistency": 0.509,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 57,
+    "question": "What is on the pillowcase?",
+    "ground_truths": [
+      "texas logo",
+      "sports team logo",
+      "texas",
+      "texas longhorns",
+      "texas",
+      "texas",
+      "texas longhorn",
+      "texas",
+      "texas",
+      "texas"
+    ],
+    "prediction": "Texas Longhorns logo",
+    "stochastic_samples": [
+      "Texas Longhorns logo",
+      "Texas Longhorns logo",
+      "Texas Longhorns logo",
+      "Texas Longhorns logo"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 58,
+    "question": "I cannot move the camera slightly closer to the monitor.",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 59,
+    "question": "What does the label say on this electronic component?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "seagate"
+    ],
+    "prediction": "Seagate Momentus 5400",
+    "stochastic_samples": [
+      "Seagate Momentus 5400",
+      "Seagate Momentum 5400",
+      "Seagate Momentus 5400",
+      "Seagate Momentum 5400"
+    ],
+    "self_consistency": 0.8,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 60,
+    "question": "Please tell me the them of this book",
+    "ground_truths": [
+      "clive cussler dirk cussler",
+      "unanswerable",
+      "clive cussler dirk cussler",
+      "clive cussler dirk cussler",
+      "sci fy",
+      "suspense",
+      "olive cussler dirk cussler",
+      "action",
+      "unanswerable",
+      "clive cussler"
+    ],
+    "prediction": "Thriller/Crime fiction",
+    "stochastic_samples": [
+      "Crime thriller novel",
+      "Thriller/Mystery",
+      "Thriller/Mystery",
+      "Thriller/Crime fiction"
+    ],
+    "self_consistency": 0.42,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 61,
+    "question": "What is this?",
+    "ground_truths": [
+      "email tab",
+      "desktop",
+      "close up computer screen",
+      "computer screen",
+      "computer screen",
+      "program window",
+      "computer screen",
+      "unanswerable",
+      "screen",
+      "unanswerable"
+    ],
+    "prediction": "Email client interface",
+    "stochastic_samples": [
+      "Email application interface",
+      "Email client interface",
+      "Email client interface",
+      "Email client interface"
+    ],
+    "self_consistency": 0.75,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 62,
+    "question": "What website is this?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "site about iphone in app purchases"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 63,
+    "question": "Alright see if you can see the ORCA serial number now.",
+    "ground_truths": [
+      "no serial number",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 64,
+    "question": "What is the person doing?",
+    "ground_truths": [
+      "looking at computer screen",
+      "watching computer screen",
+      "working on computer",
+      "looking at computer",
+      "sitting",
+      "looking at computer",
+      "sitting at computer",
+      "looking at screen",
+      "computing",
+      "sitting at desktop computer on desk"
+    ],
+    "prediction": "Unanswerable",
+    "stochastic_samples": [
+      "Unanswerable",
+      "Unanswerable",
+      "Sitting and looking",
+      "Sitting and looking"
+    ],
+    "self_consistency": 0.333,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 65,
+    "question": "Could you please tell me what's on my screen?  ",
+    "ground_truths": [
+      "no",
+      "white black screen",
+      "unanswerable",
+      "unanswerable",
+      "white box",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "blank",
+      "pop up without options text"
+    ],
+    "prediction": "Loading screen displayed.",
+    "stochastic_samples": [
+      "Loading screen displayed",
+      "Loading screen displayed.",
+      "Loading screen displayed",
+      "Loading screen displayed."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 66,
+    "question": "Product key for this version of Office.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "yes",
+      "cannot read product key",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "yes"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 67,
+    "question": "What's the website?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "cannot read url image too far away",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "geeks on leash"
+    ],
+    "prediction": "Geeks On A Leash",
+    "stochastic_samples": [
+      "Geeks On A Leash",
+      "Geeks On A Leash",
+      "Geeks On A Leash",
+      "Geeks On A Leash"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 68,
+    "question": "What does the screen say?",
+    "ground_truths": [
+      "windows please",
+      "unanswerable",
+      "unanswerable",
+      "image cutoff cant read",
+      "unanswerable",
+      "please wait",
+      "unanswerable",
+      "unanswerable",
+      "windows",
+      "please wait windows"
+    ],
+    "prediction": "Pie and Wind",
+    "stochastic_samples": [
+      "Pie and Wind",
+      "Pie and Wind",
+      "Pie and Wind",
+      "Windows and Pie"
+    ],
+    "self_consistency": 0.75,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "question": "Can you tell me what this bottle says?",
+    "ground_truths": [
+      "warm vanilla sugar",
+      "sugar",
+      "warm vanilla sugar",
+      "warm vanilla sugar",
+      "warm vanilla sugar body lotion",
+      "warm vanila sugar",
+      "warm vanilla sugar body lotion",
+      "warm vanilla sugar",
+      "warm vanilla sugar body lotion",
+      "warm vanilla sugar"
+    ],
+    "prediction": "Warm Vanilla Sugar",
+    "stochastic_samples": [
+      "Warm Vanilla Sugar",
+      "Warm Vanilla Sugar",
+      "Warm Vanilla Sugar",
+      "Warm Vanilla Sugar"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 70,
+    "question": "About this one, thank you.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "Unanswerable",
+      "Unanswerable",
+      "Unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 71,
+    "question": "What is this item",
+    "ground_truths": [
+      "unanswerable",
+      "plastic case",
+      "cellphone",
+      "legs",
+      "receipt",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "medical product code number"
+    ],
+    "prediction": "Blue medical device",
+    "stochastic_samples": [
+      "Blue medical packaging",
+      "Medical wristband",
+      "Medical/pharmaceutical packaging",
+      "Blue medical tape"
+    ],
+    "self_consistency": 0.325,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 72,
+    "question": "what does the sky look like in this photograph",
+    "ground_truths": [
+      "cloudy",
+      "blue sky some clouds",
+      "blue few clouds",
+      "blue",
+      "clear",
+      "sunny",
+      "clear",
+      "clear",
+      "cloudy",
+      "partly cloudy sky"
+    ],
+    "prediction": "Blue with white clouds.",
+    "stochastic_samples": [
+      "Blue with white clouds.",
+      "Blue with white clouds.",
+      "Blue with white clouds.",
+      "Blue with white clouds"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 73,
+    "question": "Can you tell me what this screen says?",
+    "ground_truths": [
+      "unanswerable",
+      "windows repair",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "loading screen",
+      "image too far away to read"
+    ],
+    "prediction": "Unanswerable",
+    "stochastic_samples": [
+      "Unanswerable",
+      "Unanswerable",
+      "unanswerable",
+      "Unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 74,
+    "question": "Product key for this version of office?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "blurry",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 75,
+    "question": "Is there anything on the screen?",
+    "ground_truths": [
+      "yes",
+      "unanswerable",
+      "install mac computer",
+      "install mac",
+      "install mac",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "yes",
+      "yes"
+    ],
+    "prediction": "Yes, installation screen.",
+    "stochastic_samples": [
+      "Yes, installation screen.",
+      "Yes, installation screen.",
+      "Yes, installation screen.",
+      "Yes, installation screen."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 76,
+    "question": "Business card.",
+    "ground_truths": [
+      "no",
+      "unanswerable",
+      "blurry not plan",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 77,
+    "question": "What's on my computer screen?",
+    "ground_truths": [
+      "pop up window",
+      "error message",
+      "white card blue line",
+      "unanswerable",
+      "unanswerable",
+      "open window",
+      "unanswerable",
+      "white box",
+      "box",
+      "unanswerable"
+    ],
+    "prediction": "A small window is open.",
+    "stochastic_samples": [
+      "A blue window.",
+      "A blue window is open.",
+      "A blue window.",
+      "A white window is visible."
+    ],
+    "self_consistency": 0.549,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 78,
+    "question": "Can see what's on the screen, like is it a log in screen or anything like that? Thank you.",
+    "ground_truths": [
+      "no",
+      "error message",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "insert password reset disk dialog box",
+      "yes"
+    ],
+    "prediction": "Password reset wizard.",
+    "stochastic_samples": [
+      "Password Reset Wizard",
+      "Password Reset Wizard",
+      "Password reset wizard",
+      "Password reset wizard screen"
+    ],
+    "self_consistency": 0.875,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 79,
+    "question": "What is this a medal for?",
+    "ground_truths": [
+      "america cancer society",
+      "cancer",
+      "running",
+      "unanswerable",
+      "cancer society",
+      "american cancer society",
+      "american cancer society relay for life",
+      "american cancer society",
+      "american cancer society",
+      "unanswerable"
+    ],
+    "prediction": "American Cancer Society",
+    "stochastic_samples": [
+      "American Cancer Society",
+      "American Cancer Society",
+      "American Cancer Society",
+      "American Cancer Society"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 80,
+    "question": "What is this show? ",
+    "ground_truths": [
+      "news stream",
+      "csi: crime scene investigation",
+      "csi crime scene investigation",
+      "csi",
+      "csi: crime scene investigation",
+      "unanswerable",
+      "csi",
+      "unanswerable",
+      "csi crime scene investigation",
+      "unanswerable"
+    ],
+    "prediction": "CSI: Crime Scene Investigation",
+    "stochastic_samples": [
+      "CSI: Crime Scene Investigation",
+      "CSI: Crime Scene Investigation",
+      "CSI: Crime Scene Investigation",
+      "CSI: Crime Scene Investigation"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 81,
+    "question": "Please tell me the title of this book, thank you for your time.",
+    "ground_truths": [
+      "crescent dawn",
+      "unanswerable",
+      "unanswerable",
+      "sea greed",
+      "clive cussle dirk cuss",
+      "unanswerable",
+      "unanswerable",
+      "olive cussler dirk cussler",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Olive Cussler",
+    "stochastic_samples": [
+      "Olive Cussler and Dirk Cuss",
+      "Olive Cussler",
+      "Olive Cussler",
+      "Olive Cussler"
+    ],
+    "self_consistency": 0.763,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 82,
+    "question": "Is my computer performing a disc check? For example, does it say on the screen, \\Checking files system\\, or \\Stage one of four\\ or some such? Thank you. ",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unclear",
+      "unanswerable",
+      "unanswerable",
+      "yes"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 83,
+    "question": "Which one of the three images is the Google logo?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "0",
+      "first",
+      "unanswerable",
+      "1 that say google"
+    ],
+    "prediction": "The one on the screen.",
+    "stochastic_samples": [
+      "The image on the right.",
+      "The one on the screen.",
+      "The one in the browser.",
+      "The one on the screen."
+    ],
+    "self_consistency": 0.413,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 84,
+    "question": "IS there a picture on this tv screen?",
+    "ground_truths": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "windows icon"
+    ],
+    "prediction": "Yes, there is.",
+    "stochastic_samples": [
+      "Yes, there is a picture.",
+      "Yes, there is.",
+      "Yes, there is.",
+      "Yes, there is a picture."
+    ],
+    "self_consistency": 0.733,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 85,
+    "question": "please explain what is on this piece of paper",
+    "ground_truths": [
+      "unanswerable",
+      "stress advertisement",
+      "stress relieve instructions",
+      "talks about stress relief",
+      "unanswerable",
+      "unanswerable",
+      "tips to manage stress",
+      "stress",
+      "managing stress eating right",
+      "how to heal stress"
+    ],
+    "prediction": "Stress management advice sheet",
+    "stochastic_samples": [
+      "Stress management advice sheet",
+      "Mental health awareness flyer",
+      "Stress management handout",
+      "Stress management pamphlet"
+    ],
+    "self_consistency": 0.27,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 86,
+    "question": "What bill is this?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unclear",
+      "10",
+      "unanswerable",
+      "paper"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "question": "What are the cooking instructions for this?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "0",
+      "unanswerable",
+      "unanswerable",
+      "0"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 88,
+    "question": "Is there a button I need to press to make it resume? Or do I just wait?",
+    "ground_truths": [
+      "system resume",
+      "unanswerable",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "wait",
+      "plug in"
+    ],
+    "prediction": "Wait or press button.",
+    "stochastic_samples": [
+      "Wait for it.",
+      "Wait for it.",
+      "No visible button.",
+      "Wait for it."
+    ],
+    "self_consistency": 0.5,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 89,
+    "question": "What does the screen say?",
+    "ground_truths": [
+      "file",
+      "unanswerable",
+      "expanding windows filters",
+      "thats all information we need right now your computer will resume installation",
+      "unanswerable",
+      "unanswerable",
+      "windows",
+      "unanswerable",
+      "unanswerable",
+      "expanding windows files"
+    ],
+    "prediction": "Expanding Windows files",
+    "stochastic_samples": [
+      "Expanding Windows Files",
+      "Expanding Windows files (52%)",
+      "Expanding Windows files",
+      "Expanding Windows files"
+    ],
+    "self_consistency": 0.932,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 90,
+    "question": "Is the dialogue more visible in that picture?",
+    "ground_truths": [
+      "bored",
+      "yes",
+      "no",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes"
+    ],
+    "prediction": "Yes, it is visible.",
+    "stochastic_samples": [
+      "Yes, it is visible.",
+      "Yes, more visible.",
+      "Yes, it is.",
+      "Yes, it is visible."
+    ],
+    "self_consistency": 0.583,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 91,
+    "question": "What does the small label on this disc say?",
+    "ground_truths": [
+      "3d disk",
+      "unanswerable",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "prop quartics inc",
+      "unanswerable",
+      "prop quartics inc"
+    ],
+    "prediction": "3D",
+    "stochastic_samples": [
+      "3D",
+      "3D",
+      "3D",
+      "3D"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 92,
+    "question": "The previous screen presented country, timezone, currency and keyboard and I went ahead and after I got a response from the web worker I selected Alt-N followed by next so I'm not sure if I ",
+    "ground_truths": [
+      "windows",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Proceeding to next step.",
+    "stochastic_samples": [
+      "Windows 7 setup screen",
+      "Proceeding with setup.",
+      "Setup is proceeding normally.",
+      "Proceeding to user setup."
+    ],
+    "self_consistency": 0.275,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 93,
+    "question": "Is this picture clear, and where are we now?",
+    "ground_truths": [
+      "card",
+      "unanswerable",
+      "no",
+      "yes unanswerable",
+      "yes on windows repair screen",
+      "no",
+      "no",
+      "unanswerable",
+      "yes",
+      "yes hit close"
+    ],
+    "prediction": "Picture is clear.",
+    "stochastic_samples": [
+      "Picture is clear, indoors.",
+      "Picture is clear, inside.",
+      "Picture is clear, indoors.",
+      "Moderately clear, indoors."
+    ],
+    "self_consistency": 0.531,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 94,
+    "question": "Can you please tell me what the computer screen says within in the VMware workstation window?  Particular to see if there's any progress on the Windows installation.",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "windows install now screen",
+      "unanswerable",
+      "windows",
+      "no",
+      "windows logo no progress bar",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "Windows Instant now",
+    "stochastic_samples": [
+      "Windows Instant now",
+      "Windows. Instant now.",
+      "Windows Instant now",
+      "Windows Instant Go"
+    ],
+    "self_consistency": 0.853,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 95,
+    "question": "Can you see what's on the screen?",
+    "ground_truths": [
+      "you sure you want to cancel",
+      "unanswerable",
+      "confirm cancel notification",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "prediction": "Messenger profile settings.",
+    "stochastic_samples": [
+      "Messenger profile setup screen",
+      "Yes, a pop-up.",
+      "Messaging profile settings.",
+      "Messenger profile settings."
+    ],
+    "self_consistency": 0.23,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 96,
+    "question": "Is this caffeinated or decaffeinated?",
+    "ground_truths": [
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "unanswerable",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated",
+      "caffeinated"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.33,
+    "correct": 0
+  },
+  {
+    "id": 97,
+    "question": "Can you tell me if there's any local Seattle beers on this menu?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 98,
+    "question": "What is the model number of the computer?",
+    "ground_truths": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "unanswerable",
+    "stochastic_samples": [
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 99,
+    "question": "Alright. If you could tell what the screen says, that would be helpful, thank you",
+    "ground_truths": [
+      "iniciar el escaneo de",
+      "iniciar el escaneo",
+      "unanswerable",
+      "spanish text",
+      "iniciar el escaneo de cable",
+      "unanswerable",
+      "inciar el escaneo de",
+      "unanswerable",
+      "elija",
+      "unanswerable"
+    ],
+    "prediction": "Iniciar el escaneo de ca",
+    "stochastic_samples": [
+      "Iniciar el escaneo",
+      "Scan channel setup instructions.",
+      "Scan initiation instructions",
+      "Select signal, scan"
+    ],
+    "self_consistency": 0.172,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 0,
+    "question": "What sport can you use this for?",
+    "image_path": "okvqa_imgs/000.jpg",
+    "ground_truths": [
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "motocross",
+      "motocross",
+      "riding",
+      "riding"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 1,
+    "question": "Name the type of plant this is?",
+    "image_path": "okvqa_imgs/001.jpg",
+    "ground_truths": [
+      "vine",
+      "vine",
+      "vine",
+      "vine",
+      "climbing",
+      "climbing",
+      "looks like some kind of ivy",
+      "looks like some kind of ivy",
+      "ficus",
+      "ficus"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 2,
+    "question": "What toy is this?",
+    "image_path": "okvqa_imgs/002.jpg",
+    "ground_truths": [
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 3,
+    "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+    "image_path": "okvqa_imgs/003.jpg",
+    "ground_truths": [
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 4,
+    "question": "What could this gentleman be carrying in that red bag?",
+    "image_path": "okvqa_imgs/004.jpg",
+    "ground_truths": [
+      "clothes",
+      "clothes",
+      "clothes",
+      "clothes",
+      "food",
+      "food",
+      "lunch",
+      "lunch",
+      "shoes",
+      "shoes"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 5,
+    "question": "Who leaves a toilet like this?",
+    "image_path": "okvqa_imgs/005.jpg",
+    "ground_truths": [
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "men",
+      "men",
+      "men",
+      "men"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 6,
+    "question": "A center affixed unit like this one in a kitchen is called a what?",
+    "image_path": "okvqa_imgs/006.jpg",
+    "ground_truths": [
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 7,
+    "question": "Why might someone go to this place?",
+    "image_path": "okvqa_imgs/007.jpg",
+    "ground_truths": [
+      "shopping",
+      "shopping",
+      "shopping",
+      "shopping",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 8,
+    "question": "What does this grow from?",
+    "image_path": "okvqa_imgs/008.jpg",
+    "ground_truths": [
+      "ground",
+      "ground",
+      "ground",
+      "ground",
+      "plant",
+      "plant",
+      "hibiscus plant stem",
+      "hibiscus plant stem",
+      "roots",
+      "roots"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 9,
+    "question": "What is that man doing with the bat?",
+    "image_path": "okvqa_imgs/009.jpg",
+    "ground_truths": [
+      "swinging",
+      "swinging",
+      "swinging",
+      "swinging",
+      "swing",
+      "swing",
+      "hitting",
+      "hitting",
+      "trying to hit hte ball",
+      "trying to hit hte ball"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 10,
+    "question": "Is this at a salt water beach or a lake?",
+    "image_path": "okvqa_imgs/010.jpg",
+    "ground_truths": [
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water",
+      "salt water",
+      "lake",
+      "lake",
+      "beach",
+      "beach"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 11,
+    "question": "Who designed the statues?",
+    "image_path": "okvqa_imgs/011.jpg",
+    "ground_truths": [
+      "artist",
+      "artist",
+      "artist",
+      "artist",
+      "guell",
+      "guell",
+      "toscano",
+      "toscano",
+      "aritect",
+      "aritect"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the items the hot dog are topped with?",
+    "image_path": "okvqa_imgs/012.jpg",
+    "ground_truths": [
+      "condiments",
+      "condiments",
+      "condiments",
+      "condiments",
+      "onions relish",
+      "onions relish",
+      "vegetables",
+      "vegetables",
+      "relish",
+      "relish"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 13,
+    "question": "What is this desk used for?",
+    "image_path": "okvqa_imgs/013.jpg",
+    "ground_truths": [
+      "working",
+      "working",
+      "working",
+      "working",
+      "computing",
+      "computing",
+      "work",
+      "work",
+      "office",
+      "office"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 14,
+    "question": "What type of bike is on the ground?",
+    "image_path": "okvqa_imgs/014.jpg",
+    "ground_truths": [
+      "bmx",
+      "bmx",
+      "bmx",
+      "bmx",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "10 speed",
+      "10 speed"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 15,
+    "question": "What type of plane is that?",
+    "image_path": "okvqa_imgs/015.jpg",
+    "ground_truths": [
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "passenger",
+      "passenger",
+      "quantas",
+      "quantas",
+      "md 80",
+      "md 80"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 16,
+    "question": "Is this a room for a boy or girl?",
+    "image_path": "okvqa_imgs/016.jpg",
+    "ground_truths": [
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 17,
+    "question": "In what year was this desert first introduced?",
+    "image_path": "okvqa_imgs/017.jpg",
+    "ground_truths": [
+      "1847",
+      "1847",
+      "1847",
+      "1847",
+      "1860",
+      "1860",
+      "1934",
+      "1934",
+      "1900s",
+      "1900s"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 18,
+    "question": "What is this surf trick called?",
+    "image_path": "okvqa_imgs/018.jpg",
+    "ground_truths": [
+      "riding",
+      "riding",
+      "riding",
+      "riding",
+      "tube ride",
+      "tube ride",
+      "ollie",
+      "ollie",
+      "wave runner",
+      "wave runner"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 19,
+    "question": "What do they call running around the bases on a single hit?",
+    "image_path": "okvqa_imgs/019.jpg",
+    "ground_truths": [
+      "homerun",
+      "homerun",
+      "homerun",
+      "homerun",
+      "homerun",
+      "homerun",
+      "home run",
+      "home run",
+      "home run",
+      "home run"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 20,
+    "question": "Why is this plugged in?",
+    "image_path": "okvqa_imgs/020.jpg",
+    "ground_truths": [
+      "charging",
+      "charging",
+      "charging",
+      "charging",
+      "to have power and work",
+      "to have power and work",
+      "power",
+      "power",
+      "outlet",
+      "outlet"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 21,
+    "question": "What is the shape?",
+    "image_path": "okvqa_imgs/021.jpg",
+    "ground_truths": [
+      "circle",
+      "circle",
+      "circle",
+      "circle",
+      "circle",
+      "circle",
+      "round",
+      "round",
+      "round",
+      "round"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 22,
+    "question": "What is the horsepower of the truck pulling the load?",
+    "image_path": "okvqa_imgs/022.jpg",
+    "ground_truths": [
+      "510",
+      "510",
+      "510",
+      "510",
+      "510",
+      "510",
+      "420",
+      "420",
+      "500",
+      "500"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 23,
+    "question": "What kind of skiing is this person engaged in?",
+    "image_path": "okvqa_imgs/023.jpg",
+    "ground_truths": [
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 24,
+    "question": "What is the person in the photo wearing?",
+    "image_path": "okvqa_imgs/024.jpg",
+    "ground_truths": [
+      "wetsuit",
+      "wetsuit",
+      "wetsuit",
+      "wetsuit",
+      "suit",
+      "suit",
+      "wet suit",
+      "wet suit",
+      "trunks",
+      "trunks"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of the board he is on?",
+    "image_path": "okvqa_imgs/025.jpg",
+    "ground_truths": [
+      "surf board",
+      "surf board",
+      "surf board",
+      "surf board",
+      "surfboard",
+      "surfboard",
+      "surfboard",
+      "surfboard",
+      "surf",
+      "surf"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 26,
+    "question": "Name the material used to make this car seat shown in this picture?",
+    "image_path": "okvqa_imgs/026.jpg",
+    "ground_truths": [
+      "cloth",
+      "cloth",
+      "cloth",
+      "cloth",
+      "nylon",
+      "nylon",
+      "polyester",
+      "polyester",
+      "leather",
+      "leather"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 27,
+    "question": "What part of the face is the toothbrush in?",
+    "image_path": "okvqa_imgs/027.jpg",
+    "ground_truths": [
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "happy",
+      "happy"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 28,
+    "question": "What flavor is this pastry?",
+    "image_path": "okvqa_imgs/028.jpg",
+    "ground_truths": [
+      "blueberry",
+      "blueberry",
+      "blueberry",
+      "blueberry",
+      "cream cheese",
+      "cream cheese",
+      "chocolate",
+      "chocolate",
+      "strawberry",
+      "strawberry"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 29,
+    "question": "What kind of container are the flowers in?",
+    "image_path": "okvqa_imgs/029.jpg",
+    "ground_truths": [
+      "vase",
+      "vase",
+      "vase",
+      "vase",
+      "vase",
+      "vase",
+      "trolley",
+      "trolley",
+      "pots",
+      "pots"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 30,
+    "question": "What country does this appear to be?",
+    "image_path": "okvqa_imgs/030.jpg",
+    "ground_truths": [
+      "scotland",
+      "scotland",
+      "scotland",
+      "scotland",
+      "scotland",
+      "scotland",
+      "usa",
+      "usa",
+      "england",
+      "england"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 31,
+    "question": "Which of the foods in the picture is best for you to eat when you have a cold?",
+    "image_path": "okvqa_imgs/031.jpg",
+    "ground_truths": [
+      "soup",
+      "soup",
+      "soup",
+      "soup",
+      "soup",
+      "soup",
+      "chicken soup",
+      "chicken soup",
+      "fruit",
+      "fruit"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 32,
+    "question": "What do teenage pranksters do to this animal?",
+    "image_path": "okvqa_imgs/032.jpg",
+    "ground_truths": [
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tipping",
+      "tipping"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 33,
+    "question": "How many watts is that microwave?",
+    "image_path": "okvqa_imgs/033.jpg",
+    "ground_truths": [
+      "800",
+      "800",
+      "800",
+      "800",
+      "120",
+      "120",
+      "1000",
+      "1000",
+      "100",
+      "100"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 34,
+    "question": "What is this type of blanket called?",
+    "image_path": "okvqa_imgs/034.jpg",
+    "ground_truths": [
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "patchwork",
+      "patchwork"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 35,
+    "question": "What south american country usually has this climate?",
+    "image_path": "okvqa_imgs/035.jpg",
+    "ground_truths": [
+      "brazil",
+      "brazil",
+      "brazil",
+      "brazil",
+      "brazil",
+      "brazil",
+      "africa",
+      "africa",
+      "ecuador",
+      "ecuador"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 36,
+    "question": "What american restaurant features an open kitchen with visible cooking area such as this?",
+    "image_path": "okvqa_imgs/036.jpg",
+    "ground_truths": [
+      "diner",
+      "diner",
+      "diner",
+      "diner",
+      "diner",
+      "diner",
+      "denny's",
+      "denny's",
+      "waffle house",
+      "waffle house"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 37,
+    "question": "What other big vehicle is often painted about the same shade as this vehicle?",
+    "image_path": "okvqa_imgs/037.jpg",
+    "ground_truths": [
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetrucks",
+      "firetrucks",
+      "fire truck",
+      "fire truck"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 38,
+    "question": "What brand is this wine?",
+    "image_path": "okvqa_imgs/038.jpg",
+    "ground_truths": [
+      "becker vineyards",
+      "becker vineyards",
+      "becker vineyards",
+      "becker vineyards",
+      "becker vineyard",
+      "becker vineyard",
+      "becker vineyard",
+      "becker vineyard",
+      "becker",
+      "becker"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 39,
+    "question": "What would happen if these items fall to the ground?",
+    "image_path": "okvqa_imgs/039.jpg",
+    "ground_truths": [
+      "shatter",
+      "shatter",
+      "shatter",
+      "shatter",
+      "they would shatter",
+      "they would shatter",
+      "break",
+      "break",
+      "they would break",
+      "they would break"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 40,
+    "question": "What brand of suit is the man in the image wearing?",
+    "image_path": "okvqa_imgs/040.jpg",
+    "ground_truths": [
+      "brooks brothers",
+      "brooks brothers",
+      "brooks brothers",
+      "brooks brothers",
+      "gorgio armani",
+      "gorgio armani",
+      "name brand",
+      "name brand",
+      "gucchi",
+      "gucchi"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 41,
+    "question": "Where might i buy a print that resembles this photo?",
+    "image_path": "okvqa_imgs/041.jpg",
+    "ground_truths": [
+      "gallery",
+      "gallery",
+      "gallery",
+      "gallery",
+      "store",
+      "store",
+      "target",
+      "target",
+      "walmart",
+      "walmart"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 42,
+    "question": "What are the rolled black food items called?",
+    "image_path": "okvqa_imgs/042.jpg",
+    "ground_truths": [
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 43,
+    "question": "What type of bird is this?",
+    "image_path": "okvqa_imgs/043.jpg",
+    "ground_truths": [
+      "blue jay",
+      "blue jay",
+      "blue jay",
+      "blue jay",
+      "bluebird",
+      "bluebird",
+      "songbird",
+      "songbird",
+      "goldfinch",
+      "goldfinch"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 44,
+    "question": "How can you tell that the people are not upset?",
+    "image_path": "okvqa_imgs/044.jpg",
+    "ground_truths": [
+      "they are smiling",
+      "they are smiling",
+      "they are smiling",
+      "they are smiling",
+      "smiles",
+      "smiles",
+      "smiles",
+      "smiles",
+      "smiling",
+      "smiling"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 45,
+    "question": "How fast is the vehicle pictured capable of reaching?",
+    "image_path": "okvqa_imgs/045.jpg",
+    "ground_truths": [
+      "80 mph",
+      "80 mph",
+      "80 mph",
+      "80 mph",
+      "100 mph",
+      "100 mph",
+      "100 mph",
+      "100 mph",
+      "10mph",
+      "10mph"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 46,
+    "question": "Name the type of hat the man is wearing?",
+    "image_path": "okvqa_imgs/046.jpg",
+    "ground_truths": [
+      "cowboy",
+      "cowboy",
+      "cowboy",
+      "cowboy",
+      "sombrero",
+      "sombrero",
+      "sombrero",
+      "sombrero",
+      "stetson",
+      "stetson"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 47,
+    "question": "What sates are these grown in?",
+    "image_path": "okvqa_imgs/047.jpg",
+    "ground_truths": [
+      "florida california",
+      "florida california",
+      "florida california",
+      "florida california",
+      "california",
+      "california",
+      "california",
+      "california",
+      "florida",
+      "florida"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 48,
+    "question": "How does the bread taste?",
+    "image_path": "okvqa_imgs/048.jpg",
+    "ground_truths": [
+      "good",
+      "good",
+      "good",
+      "good",
+      "like bread",
+      "like bread",
+      "sweet",
+      "sweet",
+      "delicious",
+      "delicious"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 49,
+    "question": "What is this type of mack truck used for?",
+    "image_path": "okvqa_imgs/049.jpg",
+    "ground_truths": [
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "road work",
+      "road work"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 50,
+    "question": "What type of platform should this vehicle be on?",
+    "image_path": "okvqa_imgs/050.jpg",
+    "ground_truths": [
+      "tracks",
+      "tracks",
+      "tracks",
+      "tracks",
+      "tracks",
+      "tracks",
+      "railroad",
+      "railroad",
+      "rails",
+      "rails"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 51,
+    "question": "What is the term for the effect used in this photo?",
+    "image_path": "okvqa_imgs/051.jpg",
+    "ground_truths": [
+      "fisheye",
+      "fisheye",
+      "fisheye",
+      "fisheye",
+      "reflection",
+      "reflection",
+      "zoom",
+      "zoom",
+      "wide angle",
+      "wide angle"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 52,
+    "question": "What is the small white outdoor house like building called?",
+    "image_path": "okvqa_imgs/052.jpg",
+    "ground_truths": [
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "shed",
+      "shed",
+      "casida",
+      "casida"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 53,
+    "question": "What can the woman do with this toy?",
+    "image_path": "okvqa_imgs/053.jpg",
+    "ground_truths": [
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw",
+      "throw"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 54,
+    "question": "Is this boy a professional player or still in high school?",
+    "image_path": "okvqa_imgs/054.jpg",
+    "ground_truths": [
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "school",
+      "school"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 55,
+    "question": "What is the decorative fabric on the floor called?",
+    "image_path": "okvqa_imgs/055.jpg",
+    "ground_truths": [
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "carpet",
+      "carpet"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 56,
+    "question": "Is this in a home kitchen or commercial kitchen?",
+    "image_path": "okvqa_imgs/056.jpg",
+    "ground_truths": [
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 57,
+    "question": "Which type of helmet is used by the sport person shown in this picture?",
+    "image_path": "okvqa_imgs/057.jpg",
+    "ground_truths": [
+      "batters",
+      "batters",
+      "batters",
+      "batters",
+      "batting helmet",
+      "batting helmet",
+      "batting helmet",
+      "batting helmet",
+      "batters helmet",
+      "batters helmet"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 58,
+    "question": "Which brand of slipper is shown in this picture?",
+    "image_path": "okvqa_imgs/058.jpg",
+    "ground_truths": [
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "adidas",
+      "adidas",
+      "sandal",
+      "sandal"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 59,
+    "question": "Who directed the 2012 movie shown on the television in the picture?",
+    "image_path": "okvqa_imgs/059.jpg",
+    "ground_truths": [
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss wedon",
+      "joss wedon",
+      "gunn",
+      "gunn"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 60,
+    "question": "What time of day is it?",
+    "image_path": "okvqa_imgs/060.jpg",
+    "ground_truths": [
+      "noon",
+      "noon",
+      "noon",
+      "noon",
+      "afternoon",
+      "afternoon",
+      "night",
+      "night",
+      "lunch",
+      "lunch"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 61,
+    "question": "Is this bathroom high or low end?",
+    "image_path": "okvqa_imgs/061.jpg",
+    "ground_truths": [
+      "high",
+      "high",
+      "high",
+      "high",
+      "high",
+      "high",
+      "high end",
+      "high end",
+      "high end",
+      "high end"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 62,
+    "question": "Name one famous person whom also has a black and white one of these?",
+    "image_path": "okvqa_imgs/062.jpg",
+    "ground_truths": [
+      "taylor swift",
+      "taylor swift",
+      "taylor swift",
+      "taylor swift",
+      "russell brand",
+      "russell brand",
+      "hillary clinton",
+      "hillary clinton",
+      "ernest hemingway",
+      "ernest hemingway"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 63,
+    "question": "Which item in this room is usually to wash hands?",
+    "image_path": "okvqa_imgs/063.jpg",
+    "ground_truths": [
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 64,
+    "question": "What are the white objects on this animals head called?",
+    "image_path": "okvqa_imgs/064.jpg",
+    "ground_truths": [
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "hornes",
+      "hornes",
+      "tusk",
+      "tusk"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 65,
+    "question": "Which airline has this insignia?",
+    "image_path": "okvqa_imgs/065.jpg",
+    "ground_truths": [
+      "kuwait airways",
+      "kuwait airways",
+      "kuwait airways",
+      "kuwait airways",
+      "united",
+      "united",
+      "delta",
+      "delta",
+      "twa",
+      "twa"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 66,
+    "question": "When was the cola brand on the signs founded?",
+    "image_path": "okvqa_imgs/066.jpg",
+    "ground_truths": [
+      "1892",
+      "1892",
+      "1892",
+      "1892",
+      "1851",
+      "1851",
+      "1870's",
+      "1870's",
+      "1800",
+      "1800"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 67,
+    "question": "What type of hat is this gentleman wearing?",
+    "image_path": "okvqa_imgs/067.jpg",
+    "ground_truths": [
+      "top",
+      "top",
+      "top",
+      "top",
+      "top hat",
+      "top hat",
+      "top hat",
+      "top hat",
+      "tophat",
+      "tophat"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 68,
+    "question": "What character does this clock look like?",
+    "image_path": "okvqa_imgs/068.jpg",
+    "ground_truths": [
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mouse",
+      "mouse",
+      "wall e",
+      "wall e"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 69,
+    "question": "What fruit comes from these trees?",
+    "image_path": "okvqa_imgs/069.jpg",
+    "ground_truths": [
+      "coconut",
+      "coconut",
+      "coconut",
+      "coconut",
+      "coconut",
+      "coconut",
+      "pineapples",
+      "pineapples",
+      "banana",
+      "banana"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 70,
+    "question": "What type of skiing is being done here?",
+    "image_path": "okvqa_imgs/070.jpg",
+    "ground_truths": [
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "snow skiing",
+      "snow skiing"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 71,
+    "question": "What is this animal famously known for?",
+    "image_path": "okvqa_imgs/071.jpg",
+    "ground_truths": [
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "neck",
+      "neck"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 72,
+    "question": "Are these animals mammals or insects?",
+    "image_path": "okvqa_imgs/072.jpg",
+    "ground_truths": [
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "animals",
+      "animals"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 73,
+    "question": "If it gets cold enough what will happen to the area being stepped over?",
+    "image_path": "okvqa_imgs/073.jpg",
+    "ground_truths": [
+      "freeze",
+      "freeze",
+      "freeze",
+      "freeze",
+      "frozen",
+      "frozen",
+      "it will freeze over",
+      "it will freeze over",
+      "iced",
+      "iced"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 74,
+    "question": "How tall do these animals get?",
+    "image_path": "okvqa_imgs/074.jpg",
+    "ground_truths": [
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "8 feey",
+      "8 feey",
+      "10 feet",
+      "10 feet",
+      "12 ft",
+      "12 ft"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 75,
+    "question": "What is the breed of this cat?",
+    "image_path": "okvqa_imgs/075.jpg",
+    "ground_truths": [
+      "american shorthair",
+      "american shorthair",
+      "tabby",
+      "tabby",
+      "tortoise shell",
+      "tortoise shell",
+      "tabbie",
+      "tabbie",
+      "calico",
+      "calico"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 76,
+    "question": "Is this fruit or veggies?",
+    "image_path": "okvqa_imgs/076.jpg",
+    "ground_truths": [
+      "veggies",
+      "veggies",
+      "veggies",
+      "veggies",
+      "vegetable",
+      "vegetable",
+      "veeggies",
+      "veeggies",
+      "veggie",
+      "veggie"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 77,
+    "question": "Why so many green vegetables?",
+    "image_path": "okvqa_imgs/077.jpg",
+    "ground_truths": [
+      "healthy",
+      "healthy",
+      "healthy",
+      "healthy",
+      "make salad",
+      "make salad",
+      "lots of vegetables are green",
+      "lots of vegetables are green",
+      "salad",
+      "salad"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 78,
+    "question": "What unpleasant emotional state does this weather phenomenon often cause?",
+    "image_path": "okvqa_imgs/078.jpg",
+    "ground_truths": [
+      "depression",
+      "depression",
+      "depression",
+      "depression",
+      "shock",
+      "shock",
+      "fright",
+      "fright",
+      "fear",
+      "fear"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 79,
+    "question": "What kind of oven is on the table?",
+    "image_path": "okvqa_imgs/079.jpg",
+    "ground_truths": [
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster oven",
+      "toaster oven",
+      "ge",
+      "ge"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 80,
+    "question": "How do people use this?",
+    "image_path": "okvqa_imgs/080.jpg",
+    "ground_truths": [
+      "sail",
+      "sail",
+      "sail",
+      "sail",
+      "sailing",
+      "sailing",
+      "sailing",
+      "sailing",
+      "to sail",
+      "to sail"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 81,
+    "question": "What small cloth is used to wipe the face or eating this meal?",
+    "image_path": "okvqa_imgs/081.jpg",
+    "ground_truths": [
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 82,
+    "question": "What is this truck moving?",
+    "image_path": "okvqa_imgs/082.jpg",
+    "ground_truths": [
+      "furniture",
+      "furniture",
+      "furniture",
+      "furniture",
+      "furniture",
+      "furniture",
+      "goods",
+      "goods",
+      "cargo",
+      "cargo"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 83,
+    "question": "Which phase is that moon in?",
+    "image_path": "okvqa_imgs/083.jpg",
+    "ground_truths": [
+      "half",
+      "half",
+      "half",
+      "half",
+      "half",
+      "half",
+      "half moon",
+      "half moon",
+      "half moon",
+      "half moon"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 84,
+    "question": "What kind of animal is clearly displayed on the cover of this bed?",
+    "image_path": "okvqa_imgs/084.jpg",
+    "ground_truths": [
+      "deer",
+      "deer",
+      "deer",
+      "deer",
+      "deer",
+      "deer",
+      "elk",
+      "elk",
+      "moose",
+      "moose"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 85,
+    "question": "What is a type of horseback sport?",
+    "image_path": "okvqa_imgs/085.jpg",
+    "ground_truths": [
+      "polo",
+      "polo",
+      "polo",
+      "polo",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "riding",
+      "riding"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 86,
+    "question": "What item might be used to warm this item of furniture?",
+    "image_path": "okvqa_imgs/086.jpg",
+    "ground_truths": [
+      "electric blanket",
+      "electric blanket",
+      "electric blanket",
+      "electric blanket",
+      "blanker",
+      "blanker",
+      "clothes dryer",
+      "clothes dryer",
+      "blanket",
+      "blanket"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 87,
+    "question": "What fills the balloons?",
+    "image_path": "okvqa_imgs/087.jpg",
+    "ground_truths": [
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 88,
+    "question": "Would this article of furniture typically be for public or private use?",
+    "image_path": "okvqa_imgs/088.jpg",
+    "ground_truths": [
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 89,
+    "question": "How many passengers can this plane accomodate?",
+    "image_path": "okvqa_imgs/089.jpg",
+    "ground_truths": [
+      "15",
+      "15",
+      "15",
+      "15",
+      "10",
+      "10",
+      "18",
+      "18",
+      "8",
+      "8"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 90,
+    "question": "What knocked the guy off his chair?",
+    "image_path": "okvqa_imgs/090.jpg",
+    "ground_truths": [
+      "wave",
+      "wave",
+      "wave",
+      "wave",
+      "wave",
+      "wave",
+      "water",
+      "water",
+      "water",
+      "water"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 91,
+    "question": "What is the purpose of the logos on this truck?",
+    "image_path": "okvqa_imgs/091.jpg",
+    "ground_truths": [
+      "identification",
+      "identification",
+      "identification",
+      "identification",
+      "advertising",
+      "advertising",
+      "advertising",
+      "advertising",
+      "sponsorship",
+      "sponsorship"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 92,
+    "question": "What is the purpose of these objects?",
+    "image_path": "okvqa_imgs/092.jpg",
+    "ground_truths": [
+      "art",
+      "art",
+      "art",
+      "art",
+      "memorial",
+      "memorial",
+      "decoration",
+      "decoration",
+      "graves",
+      "graves"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 93,
+    "question": "What happens here?",
+    "image_path": "okvqa_imgs/093.jpg",
+    "ground_truths": [
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "resting",
+      "resting"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 94,
+    "question": "What company is this plane flying for?",
+    "image_path": "okvqa_imgs/094.jpg",
+    "ground_truths": [
+      "oneworld",
+      "oneworld",
+      "oneworld",
+      "oneworld",
+      "1 world",
+      "1 world",
+      "1 world",
+      "1 world",
+      "not sure",
+      "not sure"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 95,
+    "question": "Name the type of curtains shown in this picture?",
+    "image_path": "okvqa_imgs/095.jpg",
+    "ground_truths": [
+      "drapes",
+      "drapes",
+      "drapes",
+      "drapes",
+      "rod pocket curtains",
+      "rod pocket curtains",
+      "big",
+      "big",
+      "lace",
+      "lace"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 96,
+    "question": "What animal does the meat on the pizza come from?",
+    "image_path": "okvqa_imgs/096.jpg",
+    "ground_truths": [
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 97,
+    "question": "How do you turn this on?",
+    "image_path": "okvqa_imgs/097.jpg",
+    "ground_truths": [
+      "key",
+      "key",
+      "key",
+      "key",
+      "key",
+      "key",
+      "ignition",
+      "ignition",
+      "with key",
+      "with key"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 98,
+    "question": "How tall is this animal usually?",
+    "image_path": "okvqa_imgs/098.jpg",
+    "ground_truths": [
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "12 ft",
+      "12 ft",
+      "15 feet",
+      "15 feet",
+      "13ft",
+      "13ft"
+    ],
+    "dataset": "okvqa"
+  },
+  {
+    "id": 99,
+    "question": "How much tomato sauce is in this dish?",
+    "image_path": "okvqa_imgs/099.jpg",
+    "ground_truths": [
+      "2 cups",
+      "2 cups",
+      "2 cups",
+      "2 cups",
+      "half cup",
+      "half cup",
+      "1 4 cup",
+      "1 4 cup",
+      "2 cans",
+      "2 cans"
+    ],
+    "dataset": "okvqa"
+  }
+]

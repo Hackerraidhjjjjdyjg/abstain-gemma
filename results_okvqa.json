@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 0,
+    "dataset": "okvqa",
+    "question": "What sport can you use this for?",
+    "ground_truths": [
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "motocross",
+      "motocross",
+      "riding",
+      "riding"
+    ],
+    "prediction": "Touring or commuting.",
+    "stochastic_samples": [
+      "Recreational riding.",
+      "Commuting or touring.",
+      "Commuting or touring",
+      "Recreational riding/touring"
+    ],
+    "self_consistency": 0.366,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 1,
+    "dataset": "okvqa",
+    "question": "Name the type of plant this is?",
+    "ground_truths": [
+      "vine",
+      "vine",
+      "vine",
+      "vine",
+      "climbing",
+      "climbing",
+      "looks like some kind of ivy",
+      "looks like some kind of ivy",
+      "ficus",
+      "ficus"
+    ],
+    "prediction": "Various tropical foliage plants",
+    "stochastic_samples": [
+      "It's difficult to name specifically.",
+      "Various tropical foliage plants",
+      "Various tropical foliage plants",
+      "It's difficult to name exactly."
+    ],
+    "self_consistency": 0.299,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "dataset": "okvqa",
+    "question": "What toy is this?",
+    "ground_truths": [
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear"
+    ],
+    "prediction": "Teddy bear.",
+    "stochastic_samples": [
+      "Teddy bear",
+      "Teddy bear toy.",
+      "Teddy bear.",
+      "Teddy bear"
+    ],
+    "self_consistency": 0.85,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "dataset": "okvqa",
+    "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+    "ground_truths": [
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth"
+    ],
+    "prediction": "Paws/feet",
+    "stochastic_samples": [
+      "Paws or mouth",
+      "Paws (or feet)",
+      "Paws (or feet)",
+      "Paws or mouth"
+    ],
+    "self_consistency": 0.667,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "dataset": "okvqa",
+    "question": "What could this gentleman be carrying in that red bag?",
+    "ground_truths": [
+      "clothes",
+      "clothes",
+      "clothes",
+      "clothes",
+      "food",
+      "food",
+      "lunch",
+      "lunch",
+      "shoes",
+      "shoes"
+    ],
+    "prediction": "Personal belongings or gear.",
+    "stochastic_samples": [
+      "Personal belongings or purchases.",
+      "Personal belongings, possibly.",
+      "Personal belongings or purchases.",
+      "Personal items or belongings."
+    ],
+    "self_consistency": 0.59,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "dataset": "okvqa",
+    "question": "Who leaves a toilet like this?",
+    "ground_truths": [
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "men",
+      "men",
+      "men",
+      "men"
+    ],
+    "prediction": "Someone who is in a hurry.",
+    "stochastic_samples": [
+      "Someone who is finished.",
+      "Someone who just used it.",
+      "Someone who is rushed.",
+      "Someone who is careless."
+    ],
+    "self_consistency": 0.447,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "dataset": "okvqa",
+    "question": "A center affixed unit like this one in a kitchen is called a what?",
+    "ground_truths": [
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island"
+    ],
+    "prediction": "Kitchen island",
+    "stochastic_samples": [
+      "Kitchen island",
+      "Kitchen island",
+      "Kitchen island",
+      "Kitchen island"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "dataset": "okvqa",
+    "question": "Why might someone go to this place?",
+    "ground_truths": [
+      "shopping",
+      "shopping",
+      "shopping",
+      "shopping",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "prediction": "Shopping and entertainment.",
+    "stochastic_samples": [
+      "Shopping and entertainment.",
+      "Shopping and entertainment.",
+      "Shopping and sightseeing.",
+      "To shop and see sights."
+    ],
+    "self_consistency": 0.439,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "dataset": "okvqa",
+    "question": "What does this grow from?",
+    "ground_truths": [
+      "ground",
+      "ground",
+      "ground",
+      "ground",
+      "plant",
+      "plant",
+      "hibiscus plant stem",
+      "hibiscus plant stem",
+      "roots",
+      "roots"
+    ],
+    "prediction": "Bulb or rhizome.",
+    "stochastic_samples": [
+      "A bulb.",
+      "Bulb or rhizome.",
+      "It grows from a bulb.",
+      "A bulb."
+    ],
+    "self_consistency": 0.407,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "dataset": "okvqa",
+    "question": "What is that man doing with the bat?",
+    "ground_truths": [
+      "swinging",
+      "swinging",
+      "swinging",
+      "swinging",
+      "swing",
+      "swing",
+      "hitting",
+      "hitting",
+      "trying to hit hte ball",
+      "trying to hit hte ball"
+    ],
+    "prediction": "Batting in a baseball game.",
+    "stochastic_samples": [
+      "Batting in a baseball game.",
+      "Batting in a baseball game.",
+      "Batting in a baseball game.",
+      "Batting in a baseball game."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "dataset": "okvqa",
+    "question": "Is this at a salt water beach or a lake?",
+    "ground_truths": [
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water",
+      "salt water",
+      "lake",
+      "lake",
+      "beach",
+      "beach"
+    ],
+    "prediction": "Likely a salt water beach.",
+    "stochastic_samples": [
+      "Likely a lake.",
+      "It is difficult to tell.",
+      "It is difficult to tell.",
+      "Likely a salt water beach."
+    ],
+    "self_consistency": 0.222,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 11,
+    "dataset": "okvqa",
+    "question": "Who designed the statues?",
+    "ground_truths": [
+      "artist",
+      "artist",
+      "artist",
+      "artist",
+      "guell",
+      "guell",
+      "toscano",
+      "toscano",
+      "aritect",
+      "aritect"
+    ],
+    "prediction": "I do not have that information.",
+    "stochastic_samples": [
+      "I cannot tell from the photo.",
+      "I cannot tell you who designed the statues.",
+      "I do not have this information.",
+      "I cannot answer that."
+    ],
+    "self_consistency": 0.188,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "dataset": "okvqa",
+    "question": "What is the name of the items the hot dog are topped with?",
+    "ground_truths": [
+      "condiments",
+      "condiments",
+      "condiments",
+      "condiments",
+      "onions relish",
+      "onions relish",
+      "vegetables",
+      "vegetables",
+      "relish",
+      "relish"
+    ],
+    "prediction": "Relish and chopped vegetables",
+    "stochastic_samples": [
+      "Relish and chopped vegetables",
+      "Pickled vegetables and salsa.",
+      "Relish and chopped vegetables",
+      "Relish and tomatoes"
+    ],
+    "self_consistency": 0.439,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "dataset": "okvqa",
+    "question": "What is this desk used for?",
+    "ground_truths": [
+      "working",
+      "working",
+      "working",
+      "working",
+      "computing",
+      "computing",
+      "work",
+      "work",
+      "office",
+      "office"
+    ],
+    "prediction": "Computer work and office tasks.",
+    "stochastic_samples": [
+      "Office work and computing.",
+      "Computer work and office tasks.",
+      "Computer work and office tasks.",
+      "Computer work and office tasks."
+    ],
+    "self_consistency": 0.75,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 14,
+    "dataset": "okvqa",
+    "question": "What type of bike is on the ground?",
+    "ground_truths": [
+      "bmx",
+      "bmx",
+      "bmx",
+      "bmx",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "10 speed",
+      "10 speed"
+    ],
+    "prediction": "Small dirt bike.",
+    "stochastic_samples": [
+      "Small dirt bike.",
+      "Small dirt bike.",
+      "Small dirt bike.",
+      "Small dirt bike."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 15,
+    "dataset": "okvqa",
+    "question": "What type of plane is that?",
+    "ground_truths": [
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "passenger",
+      "passenger",
+      "quantas",
+      "quantas",
+      "md 80",
+      "md 80"
+    ],
+    "prediction": "Boeing 737",
+    "stochastic_samples": [
+      "Boeing 737 aircraft.",
+      "Boeing 737",
+      "Boeing 737 aircraft.",
+      "Boeing 737"
+    ],
+    "self_consistency": 0.778,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "dataset": "okvqa",
+    "question": "Is this a room for a boy or girl?",
+    "ground_truths": [
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl",
+      "girl"
+    ],
+    "prediction": "Ambiguous, could be either.",
+    "stochastic_samples": [
+      "Could be either.",
+      "Ambiguous, could be either.",
+      "Could be either.",
+      "It could be either."
+    ],
+    "self_consistency": 0.799,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 17,
+    "dataset": "okvqa",
+    "question": "In what year was this desert first introduced?",
+    "ground_truths": [
+      "1847",
+      "1847",
+      "1847",
+      "1847",
+      "1860",
+      "1860",
+      "1934",
+      "1934",
+      "1900s",
+      "1900s"
+    ],
+    "prediction": "I cannot answer that.",
+    "stochastic_samples": [
+      "I cannot answer that question.",
+      "I do not have that information.",
+      "I cannot answer that question.",
+      "I cannot answer this question."
+    ],
+    "self_consistency": 0.492,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 18,
+    "dataset": "okvqa",
+    "question": "What is this surf trick called?",
+    "ground_truths": [
+      "riding",
+      "riding",
+      "riding",
+      "riding",
+      "tube ride",
+      "tube ride",
+      "ollie",
+      "ollie",
+      "wave runner",
+      "wave runner"
+    ],
+    "prediction": "Cutback or bottom turn",
+    "stochastic_samples": [
+      "Cutback or bottom turn",
+      "Cutback or bottom turn.",
+      "Cutback or Re-entry",
+      "Cutback or bottom turn"
+    ],
+    "self_consistency": 0.667,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "dataset": "okvqa",
+    "question": "What do they call running around the bases on a single hit?",
+    "ground_truths": [
+      "homerun",
+      "homerun",
+      "homerun",
+      "homerun",
+      "homerun",
+      "homerun",
+      "home run",
+      "home run",
+      "home run",
+      "home run"
+    ],
+    "prediction": "Circling the bases.",
+    "stochastic_samples": [
+      "Rounding the bases",
+      "Circling the bases.",
+      "Running the bases.",
+      "Running the bases."
+    ],
+    "self_consistency": 0.583,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 20,
+    "dataset": "okvqa",
+    "question": "Why is this plugged in?",
+    "ground_truths": [
+      "charging",
+      "charging",
+      "charging",
+      "charging",
+      "to have power and work",
+      "to have power and work",
+      "power",
+      "power",
+      "outlet",
+      "outlet"
+    ],
+    "prediction": "To power the laptop.",
+    "stochastic_samples": [
+      "To power the laptop.",
+      "To power the laptop.",
+      "To power the laptop.",
+      "To power the laptop."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 21,
+    "dataset": "okvqa",
+    "question": "What is the shape?",
+    "ground_truths": [
+      "circle",
+      "circle",
+      "circle",
+      "circle",
+      "circle",
+      "circle",
+      "round",
+      "round",
+      "round",
+      "round"
+    ],
+    "prediction": "Ring or donut shape.",
+    "stochastic_samples": [
+      "Ring or donut shape.",
+      "Ring or donut shape.",
+      "Ring or donut shape.",
+      "Ring or donut shape."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 22,
+    "dataset": "okvqa",
+    "question": "What is the horsepower of the truck pulling the load?",
+    "ground_truths": [
+      "510",
+      "510",
+      "510",
+      "510",
+      "510",
+      "510",
+      "420",
+      "420",
+      "500",
+      "500"
+    ],
+    "prediction": "I cannot determine the horsepower.",
+    "stochastic_samples": [
+      "I cannot determine the horsepower.",
+      "Not visible.",
+      "I cannot determine the horsepower.",
+      "Not visible in photo."
+    ],
+    "self_consistency": 0.273,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "dataset": "okvqa",
+    "question": "What kind of skiing is this person engaged in?",
+    "ground_truths": [
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country"
+    ],
+    "prediction": "Cross-country skiing.",
+    "stochastic_samples": [
+      "Cross-country skiing",
+      "Snowshoeing or cross-country skiing.",
+      "Cross-country skiing.",
+      "Cross-country skiing."
+    ],
+    "self_consistency": 0.8,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 24,
+    "dataset": "okvqa",
+    "question": "What is the person in the photo wearing?",
+    "ground_truths": [
+      "wetsuit",
+      "wetsuit",
+      "wetsuit",
+      "wetsuit",
+      "suit",
+      "suit",
+      "wet suit",
+      "wet suit",
+      "trunks",
+      "trunks"
+    ],
+    "prediction": "Wetsuit and board.",
+    "stochastic_samples": [
+      "Wetsuit and board.",
+      "Wetsuit and board.",
+      "Wetsuit and board.",
+      "Wetsuit and board."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "dataset": "okvqa",
+    "question": "What is the name of the board he is on?",
+    "ground_truths": [
+      "surf board",
+      "surf board",
+      "surf board",
+      "surf board",
+      "surfboard",
+      "surfboard",
+      "surfboard",
+      "surfboard",
+      "surf",
+      "surf"
+    ],
+    "prediction": "Surfboard",
+    "stochastic_samples": [
+      "Surfboard",
+      "Surfboard",
+      "Surfboard",
+      "Surfboard"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "dataset": "okvqa",
+    "question": "Name the material used to make this car seat shown in this picture?",
+    "ground_truths": [
+      "cloth",
+      "cloth",
+      "cloth",
+      "cloth",
+      "nylon",
+      "nylon",
+      "polyester",
+      "polyester",
+      "leather",
+      "leather"
+    ],
+    "prediction": "Upholstery or fabric",
+    "stochastic_samples": [
+      "Fabric or upholstery",
+      "Fabric or upholstery",
+      "Upholstery or fabric",
+      "Fabric or upholstery"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 27,
+    "dataset": "okvqa",
+    "question": "What part of the face is the toothbrush in?",
+    "ground_truths": [
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "happy",
+      "happy"
+    ],
+    "prediction": "Mouth opening",
+    "stochastic_samples": [
+      "Mouth area of face.",
+      "Mouth opening.",
+      "Mouth/opening",
+      "Mouth area of face."
+    ],
+    "self_consistency": 0.467,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 28,
+    "dataset": "okvqa",
+    "question": "What flavor is this pastry?",
+    "ground_truths": [
+      "blueberry",
+      "blueberry",
+      "blueberry",
+      "blueberry",
+      "cream cheese",
+      "cream cheese",
+      "chocolate",
+      "chocolate",
+      "strawberry",
+      "strawberry"
+    ],
+    "prediction": "Cannot determine flavor.",
+    "stochastic_samples": [
+      "Cannot determine flavor.",
+      "Cannot determine flavor.",
+      "Cannot determine flavor.",
+      "Cannot determine flavor."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 29,
+    "dataset": "okvqa",
+    "question": "What kind of container are the flowers in?",
+    "ground_truths": [
+      "vase",
+      "vase",
+      "vase",
+      "vase",
+      "vase",
+      "vase",
+      "trolley",
+      "trolley",
+      "pots",
+      "pots"
+    ],
+    "prediction": "Varying glass and ceramic.",
+    "stochastic_samples": [
+      "Various glass and ceramic.",
+      "Vases and bowls",
+      "Varying glass containers.",
+      "Glass and ceramic containers."
+    ],
+    "self_consistency": 0.25,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 30,
+    "dataset": "okvqa",
+    "question": "What country does this appear to be?",
+    "ground_truths": [
+      "scotland",
+      "scotland",
+      "scotland",
+      "scotland",
+      "scotland",
+      "scotland",
+      "usa",
+      "usa",
+      "england",
+      "england"
+    ],
+    "prediction": "United Kingdom",
+    "stochastic_samples": [
+      "United Kingdom (or similar)",
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "self_consistency": 0.775,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 31,
+    "dataset": "okvqa",
+    "question": "Which of the foods in the picture is best for you to eat when you have a cold?",
+    "ground_truths": [
+      "soup",
+      "soup",
+      "soup",
+      "soup",
+      "soup",
+      "soup",
+      "chicken soup",
+      "chicken soup",
+      "fruit",
+      "fruit"
+    ],
+    "prediction": "Soup/Stew",
+    "stochastic_samples": [
+      "Soup/Stew",
+      "Soup/Stew.",
+      "The soup/stew.",
+      "Soup/stew"
+    ],
+    "self_consistency": 0.833,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 32,
+    "dataset": "okvqa",
+    "question": "What do teenage pranksters do to this animal?",
+    "ground_truths": [
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tip",
+      "tipping",
+      "tipping"
+    ],
+    "prediction": "I cannot answer that question.",
+    "stochastic_samples": [
+      "I cannot answer that question.",
+      "I cannot answer that question.",
+      "I cannot answer that question.",
+      "I cannot answer that question."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 33,
+    "dataset": "okvqa",
+    "question": "How many watts is that microwave?",
+    "ground_truths": [
+      "800",
+      "800",
+      "800",
+      "800",
+      "120",
+      "120",
+      "1000",
+      "1000",
+      "100",
+      "100"
+    ],
+    "prediction": "I cannot tell.",
+    "stochastic_samples": [
+      "I cannot tell.",
+      "I cannot tell.",
+      "I cannot tell.",
+      "I cannot tell."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 34,
+    "dataset": "okvqa",
+    "question": "What is this type of blanket called?",
+    "ground_truths": [
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "quilt",
+      "patchwork",
+      "patchwork"
+    ],
+    "prediction": "Quilt or patchwork blanket",
+    "stochastic_samples": [
+      "Quilt or patchwork blanket.",
+      "Quilted blanket or comforter",
+      "Quilt",
+      "Quilt blanket"
+    ],
+    "self_consistency": 0.339,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 35,
+    "dataset": "okvqa",
+    "question": "What south american country usually has this climate?",
+    "ground_truths": [
+      "brazil",
+      "brazil",
+      "brazil",
+      "brazil",
+      "brazil",
+      "brazil",
+      "africa",
+      "africa",
+      "ecuador",
+      "ecuador"
+    ],
+    "prediction": "The image does not provide enough information to determine a specific South American country based on climate alone.",
+    "stochastic_samples": [
+      "Not specifically South American.",
+      "No specific country.",
+      "Unknown from photo.",
+      "South American plains."
+    ],
+    "self_consistency": 0.096,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 36,
+    "dataset": "okvqa",
+    "question": "What american restaurant features an open kitchen with visible cooking area such as this?",
+    "ground_truths": [
+      "diner",
+      "diner",
+      "diner",
+      "diner",
+      "diner",
+      "diner",
+      "denny's",
+      "denny's",
+      "waffle house",
+      "waffle house"
+    ],
+    "prediction": "Steakhouse or diner",
+    "stochastic_samples": [
+      "Farm-to-table restaurants.",
+      "Farm-to-table restaurants.",
+      "Steakhouse or diner.",
+      "Steakhouse or diner."
+    ],
+    "self_consistency": 0.333,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "dataset": "okvqa",
+    "question": "What other big vehicle is often painted about the same shade as this vehicle?",
+    "ground_truths": [
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetruck",
+      "firetrucks",
+      "firetrucks",
+      "fire truck",
+      "fire truck"
+    ],
+    "prediction": "Fire trucks.",
+    "stochastic_samples": [
+      "Fire trucks",
+      "Fire trucks",
+      "Fire trucks.",
+      "Fire trucks"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 38,
+    "dataset": "okvqa",
+    "question": "What brand is this wine?",
+    "ground_truths": [
+      "becker vineyards",
+      "becker vineyards",
+      "becker vineyards",
+      "becker vineyards",
+      "becker vineyard",
+      "becker vineyard",
+      "becker vineyard",
+      "becker vineyard",
+      "becker",
+      "becker"
+    ],
+    "prediction": "Becker Vineyards",
+    "stochastic_samples": [
+      "Becker Vineyards",
+      "Becker Vineyards",
+      "Becker Vineyards",
+      "Becker Vineyards"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 39,
+    "dataset": "okvqa",
+    "question": "What would happen if these items fall to the ground?",
+    "ground_truths": [
+      "shatter",
+      "shatter",
+      "shatter",
+      "shatter",
+      "they would shatter",
+      "they would shatter",
+      "break",
+      "break",
+      "they would break",
+      "they would break"
+    ],
+    "prediction": "They would break.",
+    "stochastic_samples": [
+      "They would break.",
+      "They would break.",
+      "They would break.",
+      "They would break."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "dataset": "okvqa",
+    "question": "What brand of suit is the man in the image wearing?",
+    "ground_truths": [
+      "brooks brothers",
+      "brooks brothers",
+      "brooks brothers",
+      "brooks brothers",
+      "gorgio armani",
+      "gorgio armani",
+      "name brand",
+      "name brand",
+      "gucchi",
+      "gucchi"
+    ],
+    "prediction": "Cannot determine brand.",
+    "stochastic_samples": [
+      "Cannot determine brand.",
+      "I cannot determine the suit brand.",
+      "I cannot determine the suit brand.",
+      "Cannot determine the brand."
+    ],
+    "self_consistency": 0.712,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 41,
+    "dataset": "okvqa",
+    "question": "Where might i buy a print that resembles this photo?",
+    "ground_truths": [
+      "gallery",
+      "gallery",
+      "gallery",
+      "gallery",
+      "store",
+      "store",
+      "target",
+      "target",
+      "walmart",
+      "walmart"
+    ],
+    "prediction": "Stock photo websites.",
+    "stochastic_samples": [
+      "Etsy or stock photo sites.",
+      "Art print shops online.",
+      "Stock photo websites.",
+      "Stock photo websites."
+    ],
+    "self_consistency": 0.319,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 42,
+    "dataset": "okvqa",
+    "question": "What are the rolled black food items called?",
+    "ground_truths": [
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi",
+      "sushi"
+    ],
+    "prediction": "Sushi rolls",
+    "stochastic_samples": [
+      "Sushi rolls",
+      "Sushi rolls.",
+      "Sushi rolls.",
+      "Sushi rolls"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "dataset": "okvqa",
+    "question": "What type of bird is this?",
+    "ground_truths": [
+      "blue jay",
+      "blue jay",
+      "blue jay",
+      "blue jay",
+      "bluebird",
+      "bluebird",
+      "songbird",
+      "songbird",
+      "goldfinch",
+      "goldfinch"
+    ],
+    "prediction": "Blue Jay",
+    "stochastic_samples": [
+      "Blue Jay",
+      "Blue Jay",
+      "Blue Jay",
+      "Blue Jay"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 44,
+    "dataset": "okvqa",
+    "question": "How can you tell that the people are not upset?",
+    "ground_truths": [
+      "they are smiling",
+      "they are smiling",
+      "they are smiling",
+      "they are smiling",
+      "smiles",
+      "smiles",
+      "smiles",
+      "smiles",
+      "smiling",
+      "smiling"
+    ],
+    "prediction": "They are smiling.",
+    "stochastic_samples": [
+      "They are smiling/laughing.",
+      "They are smiling.",
+      "They are smiling/laughing.",
+      "They are smiling."
+    ],
+    "self_consistency": 0.833,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 45,
+    "dataset": "okvqa",
+    "question": "How fast is the vehicle pictured capable of reaching?",
+    "ground_truths": [
+      "80 mph",
+      "80 mph",
+      "80 mph",
+      "80 mph",
+      "100 mph",
+      "100 mph",
+      "100 mph",
+      "100 mph",
+      "10mph",
+      "10mph"
+    ],
+    "prediction": "Cannot determine speed.",
+    "stochastic_samples": [
+      "Speed is not determinable.",
+      "Cannot determine speed.",
+      "Not determinable from photo.",
+      "Not determinable from photo."
+    ],
+    "self_consistency": 0.49,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 46,
+    "dataset": "okvqa",
+    "question": "Name the type of hat the man is wearing?",
+    "ground_truths": [
+      "cowboy",
+      "cowboy",
+      "cowboy",
+      "cowboy",
+      "sombrero",
+      "sombrero",
+      "sombrero",
+      "sombrero",
+      "stetson",
+      "stetson"
+    ],
+    "prediction": "Sombrero",
+    "stochastic_samples": [
+      "Cowboy hat.",
+      "Cowboy hat",
+      "Cowboy hat",
+      "Sombrero"
+    ],
+    "self_consistency": 0.5,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 47,
+    "dataset": "okvqa",
+    "question": "What sates are these grown in?",
+    "ground_truths": [
+      "florida california",
+      "florida california",
+      "florida california",
+      "florida california",
+      "california",
+      "california",
+      "california",
+      "california",
+      "florida",
+      "florida"
+    ],
+    "prediction": "I cannot determine the growing states.",
+    "stochastic_samples": [
+      "I cannot determine the states.",
+      "I cannot determine the growing states.",
+      "I cannot determine the states.",
+      "I cannot determine that."
+    ],
+    "self_consistency": 0.741,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 48,
+    "dataset": "okvqa",
+    "question": "How does the bread taste?",
+    "ground_truths": [
+      "good",
+      "good",
+      "good",
+      "good",
+      "like bread",
+      "like bread",
+      "sweet",
+      "sweet",
+      "delicious",
+      "delicious"
+    ],
+    "prediction": "Cannot tell from photo.",
+    "stochastic_samples": [
+      "I cannot tell.",
+      "I cannot taste it.",
+      "Cannot tell from photo.",
+      "Cannot tell from photo."
+    ],
+    "self_consistency": 0.451,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 49,
+    "dataset": "okvqa",
+    "question": "What is this type of mack truck used for?",
+    "ground_truths": [
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "cement",
+      "road work",
+      "road work"
+    ],
+    "prediction": "Heavy hauling/construction.",
+    "stochastic_samples": [
+      "Heavy hauling/construction work.",
+      "Heavy hauling/transport.",
+      "Industrial or heavy hauling.",
+      "Construction/Heavy hauling"
+    ],
+    "self_consistency": 0.464,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 50,
+    "dataset": "okvqa",
+    "question": "What type of platform should this vehicle be on?",
+    "ground_truths": [
+      "tracks",
+      "tracks",
+      "tracks",
+      "tracks",
+      "tracks",
+      "tracks",
+      "railroad",
+      "railroad",
+      "rails",
+      "rails"
+    ],
+    "prediction": "Railroad tracks.",
+    "stochastic_samples": [
+      "Railway tracks.",
+      "Railroad tracks.",
+      "Railway tracks/ballast",
+      "Railroad tracks"
+    ],
+    "self_consistency": 0.479,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 51,
+    "dataset": "okvqa",
+    "question": "What is the term for the effect used in this photo?",
+    "ground_truths": [
+      "fisheye",
+      "fisheye",
+      "fisheye",
+      "fisheye",
+      "reflection",
+      "reflection",
+      "zoom",
+      "zoom",
+      "wide angle",
+      "wide angle"
+    ],
+    "prediction": "Selfie effect",
+    "stochastic_samples": [
+      "Picture-in-picture effect.",
+      "Picture-in-picture effect",
+      "Selfie effect or close-up.",
+      "Picture-in-picture effect."
+    ],
+    "self_consistency": 0.586,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 52,
+    "dataset": "okvqa",
+    "question": "What is the small white outdoor house like building called?",
+    "ground_truths": [
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "gazebo",
+      "shed",
+      "shed",
+      "casida",
+      "casida"
+    ],
+    "prediction": "Gazebo or pavilion",
+    "stochastic_samples": [
+      "Gazebo or shelter",
+      "Gazebo or pavilion",
+      "Gazebo or pavilion",
+      "Gazebo or small shelter"
+    ],
+    "self_consistency": 0.592,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 53,
+    "dataset": "okvqa",
+    "question": "What can the woman do with this toy?",
+    "ground_truths": [
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw it",
+      "throw",
+      "throw"
+    ],
+    "prediction": "She can play with it.",
+    "stochastic_samples": [
+      "She can play with it.",
+      "She can play with it.",
+      "She can play with it.",
+      "Play with it."
+    ],
+    "self_consistency": 0.8,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 54,
+    "dataset": "okvqa",
+    "question": "Is this boy a professional player or still in high school?",
+    "ground_truths": [
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "high school",
+      "school",
+      "school"
+    ],
+    "prediction": "Cannot tell for sure.",
+    "stochastic_samples": [
+      "Cannot determine from photo.",
+      "Cannot tell from photo.",
+      "Cannot tell definitively.",
+      "Cannot determine from photo."
+    ],
+    "self_consistency": 0.489,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 55,
+    "dataset": "okvqa",
+    "question": "What is the decorative fabric on the floor called?",
+    "ground_truths": [
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "rug",
+      "carpet",
+      "carpet"
+    ],
+    "prediction": "Area rug",
+    "stochastic_samples": [
+      "Area rug",
+      "Area rug",
+      "Area rug",
+      "Area rug"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 56,
+    "dataset": "okvqa",
+    "question": "Is this in a home kitchen or commercial kitchen?",
+    "ground_truths": [
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial",
+      "commercial"
+    ],
+    "prediction": "Commercial bakery display.",
+    "stochastic_samples": [
+      "Commercial kitchen display.",
+      "Commercial bakery display.",
+      "Commercial display case.",
+      "Commercial bakery display case."
+    ],
+    "self_consistency": 0.582,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 57,
+    "dataset": "okvqa",
+    "question": "Which type of helmet is used by the sport person shown in this picture?",
+    "ground_truths": [
+      "batters",
+      "batters",
+      "batters",
+      "batters",
+      "batting helmet",
+      "batting helmet",
+      "batting helmet",
+      "batting helmet",
+      "batters helmet",
+      "batters helmet"
+    ],
+    "prediction": "Baseball batting helmet.",
+    "stochastic_samples": [
+      "Baseball batting helmet.",
+      "Baseball batting helmet",
+      "Baseball batting helmet",
+      "Baseball batting helmet."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 58,
+    "dataset": "okvqa",
+    "question": "Which brand of slipper is shown in this picture?",
+    "ground_truths": [
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "birkenstock",
+      "adidas",
+      "adidas",
+      "sandal",
+      "sandal"
+    ],
+    "prediction": "I cannot determine the brand.",
+    "stochastic_samples": [
+      "I cannot determine the brand of the slipper.",
+      "I cannot determine the brand.",
+      "No brand visible.",
+      "I cannot determine the slipper brand."
+    ],
+    "self_consistency": 0.464,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 59,
+    "dataset": "okvqa",
+    "question": "Who directed the 2012 movie shown on the television in the picture?",
+    "ground_truths": [
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss whedon",
+      "joss wedon",
+      "joss wedon",
+      "gunn",
+      "gunn"
+    ],
+    "prediction": "Joss Whedon",
+    "stochastic_samples": [
+      "Joss Whedon",
+      "Joss Whedon",
+      "Joss Whedon",
+      "Joss Whedon"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 60,
+    "dataset": "okvqa",
+    "question": "What time of day is it?",
+    "ground_truths": [
+      "noon",
+      "noon",
+      "noon",
+      "noon",
+      "afternoon",
+      "afternoon",
+      "night",
+      "night",
+      "lunch",
+      "lunch"
+    ],
+    "prediction": "Indoors, lighting suggests evening.",
+    "stochastic_samples": [
+      "Indoors, lighting suggests evening.",
+      "Evening or night.",
+      "Indoors, lighting suggests evening.",
+      "Indoors, likely evening."
+    ],
+    "self_consistency": 0.406,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 61,
+    "dataset": "okvqa",
+    "question": "Is this bathroom high or low end?",
+    "ground_truths": [
+      "high",
+      "high",
+      "high",
+      "high",
+      "high",
+      "high",
+      "high end",
+      "high end",
+      "high end",
+      "high end"
+    ],
+    "prediction": "Mid to high end.",
+    "stochastic_samples": [
+      "High end.",
+      "Mid to high end.",
+      "High end.",
+      "Mid to high end."
+    ],
+    "self_consistency": 0.667,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 62,
+    "dataset": "okvqa",
+    "question": "Name one famous person whom also has a black and white one of these?",
+    "ground_truths": [
+      "taylor swift",
+      "taylor swift",
+      "taylor swift",
+      "taylor swift",
+      "russell brand",
+      "russell brand",
+      "hillary clinton",
+      "hillary clinton",
+      "ernest hemingway",
+      "ernest hemingway"
+    ],
+    "prediction": "J.K. Rowling",
+    "stochastic_samples": [
+      "J.K. Rowling",
+      "J.K. Rowling",
+      "No famous person.",
+      "J.K. Rowling"
+    ],
+    "self_consistency": 0.5,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 63,
+    "dataset": "okvqa",
+    "question": "Which item in this room is usually to wash hands?",
+    "ground_truths": [
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink",
+      "sink"
+    ],
+    "prediction": "Sink (or basin)",
+    "stochastic_samples": [
+      "Sink/Basin",
+      "Sink/Washbasin",
+      "Sink (or basin)",
+      "Sink/Basin"
+    ],
+    "self_consistency": 0.548,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 64,
+    "dataset": "okvqa",
+    "question": "What are the white objects on this animals head called?",
+    "ground_truths": [
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "hornes",
+      "hornes",
+      "tusk",
+      "tusk"
+    ],
+    "prediction": "Horns",
+    "stochastic_samples": [
+      "Horns",
+      "Horns",
+      "Horns",
+      "Horns"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 65,
+    "dataset": "okvqa",
+    "question": "Which airline has this insignia?",
+    "ground_truths": [
+      "kuwait airways",
+      "kuwait airways",
+      "kuwait airways",
+      "kuwait airways",
+      "united",
+      "united",
+      "delta",
+      "delta",
+      "twa",
+      "twa"
+    ],
+    "prediction": "Kulmart Airways",
+    "stochastic_samples": [
+      "Kulmart Airways",
+      "Kulmart Airlines",
+      "Kulmart Airways",
+      "Kulula Airways"
+    ],
+    "self_consistency": 0.456,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 66,
+    "dataset": "okvqa",
+    "question": "When was the cola brand on the signs founded?",
+    "ground_truths": [
+      "1892",
+      "1892",
+      "1892",
+      "1892",
+      "1851",
+      "1851",
+      "1870's",
+      "1870's",
+      "1800",
+      "1800"
+    ],
+    "prediction": "I cannot determine the founding date.",
+    "stochastic_samples": [
+      "I cannot determine that.",
+      "I cannot determine that.",
+      "I cannot answer that question.",
+      "I cannot determine the founding date."
+    ],
+    "self_consistency": 0.542,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 67,
+    "dataset": "okvqa",
+    "question": "What type of hat is this gentleman wearing?",
+    "ground_truths": [
+      "top",
+      "top",
+      "top",
+      "top",
+      "top hat",
+      "top hat",
+      "top hat",
+      "top hat",
+      "tophat",
+      "tophat"
+    ],
+    "prediction": "Top hat",
+    "stochastic_samples": [
+      "Top hat.",
+      "Top hat",
+      "Top hat",
+      "Top hat"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 68,
+    "dataset": "okvqa",
+    "question": "What character does this clock look like?",
+    "ground_truths": [
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mickey mouse",
+      "mouse",
+      "mouse",
+      "wall e",
+      "wall e"
+    ],
+    "prediction": "Mickey Mouse",
+    "stochastic_samples": [
+      "Mickey Mouse",
+      "Mickey Mouse",
+      "Mickey Mouse",
+      "Mickey Mouse"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 69,
+    "dataset": "okvqa",
+    "question": "What fruit comes from these trees?",
+    "ground_truths": [
+      "coconut",
+      "coconut",
+      "coconut",
+      "coconut",
+      "coconut",
+      "coconut",
+      "pineapples",
+      "pineapples",
+      "banana",
+      "banana"
+    ],
+    "prediction": "No fruit visible.",
+    "stochastic_samples": [
+      "No fruit visible.",
+      "No fruit visible.",
+      "Palm trees do not bear fruit.",
+      "No fruit visible."
+    ],
+    "self_consistency": 0.562,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 70,
+    "dataset": "okvqa",
+    "question": "What type of skiing is being done here?",
+    "ground_truths": [
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "cross country",
+      "snow skiing",
+      "snow skiing"
+    ],
+    "prediction": "Cross-country skiing",
+    "stochastic_samples": [
+      "Cross-country skiing",
+      "Cross-country skiing",
+      "Cross-country skiing.",
+      "Cross-country skiing."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 71,
+    "dataset": "okvqa",
+    "question": "What is this animal famously known for?",
+    "ground_truths": [
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "long neck",
+      "neck",
+      "neck"
+    ],
+    "prediction": "Tall height and spots.",
+    "stochastic_samples": [
+      "Long neck and legs",
+      "Tall neck and legs.",
+      "Tall height and long neck.",
+      "Tall neck and long legs."
+    ],
+    "self_consistency": 0.644,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 72,
+    "dataset": "okvqa",
+    "question": "Are these animals mammals or insects?",
+    "ground_truths": [
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "mammals",
+      "animals",
+      "animals"
+    ],
+    "prediction": "These animals are mammals.",
+    "stochastic_samples": [
+      "They are mammals.",
+      "Mammals.",
+      "These animals are mammals.",
+      "Mammals."
+    ],
+    "self_consistency": 0.47,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 73,
+    "dataset": "okvqa",
+    "question": "If it gets cold enough what will happen to the area being stepped over?",
+    "ground_truths": [
+      "freeze",
+      "freeze",
+      "freeze",
+      "freeze",
+      "frozen",
+      "frozen",
+      "it will freeze over",
+      "it will freeze over",
+      "iced",
+      "iced"
+    ],
+    "prediction": "It will freeze.",
+    "stochastic_samples": [
+      "It will freeze.",
+      "It will freeze.",
+      "It will freeze.",
+      "It will freeze."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 74,
+    "dataset": "okvqa",
+    "question": "How tall do these animals get?",
+    "ground_truths": [
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "8 feey",
+      "8 feey",
+      "10 feet",
+      "10 feet",
+      "12 ft",
+      "12 ft"
+    ],
+    "prediction": "Up to 5 feet.",
+    "stochastic_samples": [
+      "Up to 5 feet.",
+      "About 5 to 6 feet.",
+      "Up to 5 feet.",
+      "Giraffes get very tall."
+    ],
+    "self_consistency": 0.333,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 75,
+    "dataset": "okvqa",
+    "question": "What is the breed of this cat?",
+    "ground_truths": [
+      "american shorthair",
+      "american shorthair",
+      "tabby",
+      "tabby",
+      "tortoise shell",
+      "tortoise shell",
+      "tabbie",
+      "tabbie",
+      "calico",
+      "calico"
+    ],
+    "prediction": "Domestic shorthair mix",
+    "stochastic_samples": [
+      "Domestic shorthair mix.",
+      "Domestic shorthair mix",
+      "Domestic shorthair mix.",
+      "Domestic shorthair mix"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 76,
+    "dataset": "okvqa",
+    "question": "Is this fruit or veggies?",
+    "ground_truths": [
+      "veggies",
+      "veggies",
+      "veggies",
+      "veggies",
+      "vegetable",
+      "vegetable",
+      "veeggies",
+      "veeggies",
+      "veggie",
+      "veggie"
+    ],
+    "prediction": "It is fruit.",
+    "stochastic_samples": [
+      "It is fruit.",
+      "It is fruit.",
+      "It is fruit.",
+      "It is fruit."
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 77,
+    "dataset": "okvqa",
+    "question": "Why so many green vegetables?",
+    "ground_truths": [
+      "healthy",
+      "healthy",
+      "healthy",
+      "healthy",
+      "make salad",
+      "make salad",
+      "lots of vegetables are green",
+      "lots of vegetables are green",
+      "salad",
+      "salad"
+    ],
+    "prediction": "Healthy eating, obviously.",
+    "stochastic_samples": [
+      "Healthy eating focus.",
+      "Healthy eating display.",
+      "Healthy eating/Cooking ingredients.",
+      "For healthy eating."
+    ],
+    "self_consistency": 0.467,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 78,
+    "dataset": "okvqa",
+    "question": "What unpleasant emotional state does this weather phenomenon often cause?",
+    "ground_truths": [
+      "depression",
+      "depression",
+      "depression",
+      "depression",
+      "shock",
+      "shock",
+      "fright",
+      "fright",
+      "fear",
+      "fear"
+    ],
+    "prediction": "Foreboding, anxiety, gloom.",
+    "stochastic_samples": [
+      "Foreboding, gloom, anxiety.",
+      "Foreboding, ominous, anxious.",
+      "Anxiety, gloom, or unease.",
+      "Foreboding, anxiety, gloom"
+    ],
+    "self_consistency": 0.417,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 79,
+    "dataset": "okvqa",
+    "question": "What kind of oven is on the table?",
+    "ground_truths": [
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster",
+      "toaster oven",
+      "toaster oven",
+      "ge",
+      "ge"
+    ],
+    "prediction": "Built-in range oven.",
+    "stochastic_samples": [
+      "Built-in electric oven.",
+      "Electric built-in oven.",
+      "Built-in range/oven",
+      "Electric built-in oven."
+    ],
+    "self_consistency": 0.8,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 80,
+    "dataset": "okvqa",
+    "question": "How do people use this?",
+    "ground_truths": [
+      "sail",
+      "sail",
+      "sail",
+      "sail",
+      "sailing",
+      "sailing",
+      "sailing",
+      "sailing",
+      "to sail",
+      "to sail"
+    ],
+    "prediction": "Sailing and recreation.",
+    "stochastic_samples": [
+      "Boating, sailing, recreation.",
+      "Sailing and recreation.",
+      "Sailing and recreation.",
+      "Sailing for recreation."
+    ],
+    "self_consistency": 0.615,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 81,
+    "dataset": "okvqa",
+    "question": "What small cloth is used to wipe the face or eating this meal?",
+    "ground_truths": [
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin",
+      "napkin"
+    ],
+    "prediction": "Napkin (or cloth napkin)",
+    "stochastic_samples": [
+      "Napkin (or serviette)",
+      "No small cloth is visible.",
+      "No visible cloth.",
+      "No cloth is visible."
+    ],
+    "self_consistency": 0.358,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 82,
+    "dataset": "okvqa",
+    "question": "What is this truck moving?",
+    "ground_truths": [
+      "furniture",
+      "furniture",
+      "furniture",
+      "furniture",
+      "furniture",
+      "furniture",
+      "goods",
+      "goods",
+      "cargo",
+      "cargo"
+    ],
+    "prediction": "It is a moving truck.",
+    "stochastic_samples": [
+      "It is a delivery truck.",
+      "It is a moving truck.",
+      "It is a moving truck.",
+      "It is a moving truck."
+    ],
+    "self_consistency": 0.833,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 83,
+    "dataset": "okvqa",
+    "question": "Which phase is that moon in?",
+    "ground_truths": [
+      "half",
+      "half",
+      "half",
+      "half",
+      "half",
+      "half",
+      "half moon",
+      "half moon",
+      "half moon",
+      "half moon"
+    ],
+    "prediction": "Crescent moon",
+    "stochastic_samples": [
+      "Crescent moon phase.",
+      "Crescent moon",
+      "Crescent moon",
+      "Crescent moon"
+    ],
+    "self_consistency": 0.833,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 84,
+    "dataset": "okvqa",
+    "question": "What kind of animal is clearly displayed on the cover of this bed?",
+    "ground_truths": [
+      "deer",
+      "deer",
+      "deer",
+      "deer",
+      "deer",
+      "deer",
+      "elk",
+      "elk",
+      "moose",
+      "moose"
+    ],
+    "prediction": "A silhouette of a deer.",
+    "stochastic_samples": [
+      "A silhouette of a running animal.",
+      "A silhouette of a deer.",
+      "A leaping deer.",
+      "A leaping deer or elk."
+    ],
+    "self_consistency": 0.351,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 85,
+    "dataset": "okvqa",
+    "question": "What is a type of horseback sport?",
+    "ground_truths": [
+      "polo",
+      "polo",
+      "polo",
+      "polo",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "riding",
+      "riding"
+    ],
+    "prediction": "Equestrianism (or related disciplines)",
+    "stochastic_samples": [
+      "Equestrianism (or related disciplines)",
+      "Equestrian sports",
+      "Equestrianism (or related disciplines)",
+      "Equestrianism or riding"
+    ],
+    "self_consistency": 0.425,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 86,
+    "dataset": "okvqa",
+    "question": "What item might be used to warm this item of furniture?",
+    "ground_truths": [
+      "electric blanket",
+      "electric blanket",
+      "electric blanket",
+      "electric blanket",
+      "blanker",
+      "blanker",
+      "clothes dryer",
+      "clothes dryer",
+      "blanket",
+      "blanket"
+    ],
+    "prediction": "Blanket or duvet",
+    "stochastic_samples": [
+      "Blankets or duvet",
+      "Blanket or duvet.",
+      "Blanket or duvet",
+      "Blanket or duvet."
+    ],
+    "self_consistency": 0.833,
+    "vizwiz_score": 0.67,
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "dataset": "okvqa",
+    "question": "What fills the balloons?",
+    "ground_truths": [
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium",
+      "helium"
+    ],
+    "prediction": "They are likely filled with helium.",
+    "stochastic_samples": [
+      "Air, likely helium.",
+      "It is not clear.",
+      "The balloons are filled with air.",
+      "Air and helium."
+    ],
+    "self_consistency": 0.125,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 88,
+    "dataset": "okvqa",
+    "question": "Would this article of furniture typically be for public or private use?",
+    "ground_truths": [
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public",
+      "public"
+    ],
+    "prediction": "Public use.",
+    "stochastic_samples": [
+      "Public use.",
+      "Public use",
+      "Public use.",
+      "Public use"
+    ],
+    "self_consistency": 1.0,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 89,
+    "dataset": "okvqa",
+    "question": "How many passengers can this plane accomodate?",
+    "ground_truths": [
+      "15",
+      "15",
+      "15",
+      "15",
+      "10",
+      "10",
+      "18",
+      "18",
+      "8",
+      "8"
+    ],
+    "prediction": "Cannot determine from photo.",
+    "stochastic_samples": [
+      "Cannot determine from photo.",
+      "The image does not provide this information.",
+      "It's hard to tell.",
+      "Cannot determine capacity."
+    ],
+    "self_consistency": 0.084,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 90,
+    "dataset": "okvqa",
+    "question": "What knocked the guy off his chair?",
+    "ground_truths": [
+      "wave",
+      "wave",
+      "wave",
+      "wave",
+      "wave",
+      "wave",
+      "water",
+      "water",
+      "water",
+      "water"
+    ],
+    "prediction": "The water/waves.",
+    "stochastic_samples": [
+      "The water/waves.",
+      "The water/waves.",
+      "The water/waves.",
+      "The rushing water."
+    ],
+    "self_consistency": 0.75,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 91,
+    "dataset": "okvqa",
+    "question": "What is the purpose of the logos on this truck?",
+    "ground_truths": [
+      "identification",
+      "identification",
+      "identification",
+      "identification",
+      "advertising",
+      "advertising",
+      "advertising",
+      "advertising",
+      "sponsorship",
+      "sponsorship"
+    ],
+    "prediction": "Advertising and branding.",
+    "stochastic_samples": [
+      "Branding and sponsorship.",
+      "Advertising and branding.",
+      "Promotion and branding.",
+      "Advertising and branding."
+    ],
+    "self_consistency": 0.583,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 92,
+    "dataset": "okvqa",
+    "question": "What is the purpose of these objects?",
+    "ground_truths": [
+      "art",
+      "art",
+      "art",
+      "art",
+      "memorial",
+      "memorial",
+      "decoration",
+      "decoration",
+      "graves",
+      "graves"
+    ],
+    "prediction": "Decorative garden ornaments.",
+    "stochastic_samples": [
+      "Decorative garden sculptures.",
+      "Decorative garden statues.",
+      "Decorative garden statues.",
+      "Decorative garden ornaments."
+    ],
+    "self_consistency": 0.583,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 93,
+    "dataset": "okvqa",
+    "question": "What happens here?",
+    "ground_truths": [
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "sleep",
+      "resting",
+      "resting"
+    ],
+    "prediction": "Dogs sleeping on bed.",
+    "stochastic_samples": [
+      "Dogs sleeping on bed.",
+      "Dogs are sleeping.",
+      "Dogs sleeping on bed.",
+      "Dogs sleep on bed."
+    ],
+    "self_consistency": 0.542,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 94,
+    "dataset": "okvqa",
+    "question": "What company is this plane flying for?",
+    "ground_truths": [
+      "oneworld",
+      "oneworld",
+      "oneworld",
+      "oneworld",
+      "1 world",
+      "1 world",
+      "1 world",
+      "1 world",
+      "not sure",
+      "not sure"
+    ],
+    "prediction": "OneWorld alliance member.",
+    "stochastic_samples": [
+      "OneWorld alliance member.",
+      "OneWorld alliance airline.",
+      "oneworld alliance members",
+      "OneWorld alliance airline"
+    ],
+    "self_consistency": 0.665,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 95,
+    "dataset": "okvqa",
+    "question": "Name the type of curtains shown in this picture?",
+    "ground_truths": [
+      "drapes",
+      "drapes",
+      "drapes",
+      "drapes",
+      "rod pocket curtains",
+      "rod pocket curtains",
+      "big",
+      "big",
+      "lace",
+      "lace"
+    ],
+    "prediction": "Heavy, draped velvet curtains",
+    "stochastic_samples": [
+      "Heavy, draped curtains",
+      "Draped, rich velvet curtains.",
+      "Heavy, patterned drapes",
+      "Velvet draped curtains"
+    ],
+    "self_consistency": 0.342,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 96,
+    "dataset": "okvqa",
+    "question": "What animal does the meat on the pizza come from?",
+    "ground_truths": [
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig",
+      "pig"
+    ],
+    "prediction": "Beef or pork.",
+    "stochastic_samples": [
+      "Beef or pork.",
+      "Cow (beef)",
+      "Beef or pork.",
+      "Beef"
+    ],
+    "self_consistency": 0.444,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 97,
+    "dataset": "okvqa",
+    "question": "How do you turn this on?",
+    "ground_truths": [
+      "key",
+      "key",
+      "key",
+      "key",
+      "key",
+      "key",
+      "ignition",
+      "ignition",
+      "with key",
+      "with key"
+    ],
+    "prediction": "Turn the ignition key.",
+    "stochastic_samples": [
+      "Turn the ignition key.",
+      "Turn the ignition key.",
+      "Turn ignition key.",
+      "Turn the ignition key."
+    ],
+    "self_consistency": 0.875,
+    "vizwiz_score": 1.0,
+    "correct": 1
+  },
+  {
+    "id": 98,
+    "dataset": "okvqa",
+    "question": "How tall is this animal usually?",
+    "ground_truths": [
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "20 feet",
+      "12 ft",
+      "12 ft",
+      "15 feet",
+      "15 feet",
+      "13ft",
+      "13ft"
+    ],
+    "prediction": "Up to 6 feet.",
+    "stochastic_samples": [
+      "Up to 6 feet.",
+      "Up to 6 feet tall.",
+      "Up to 6 feet.",
+      "Up to six feet."
+    ],
+    "self_consistency": 0.717,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  },
+  {
+    "id": 99,
+    "dataset": "okvqa",
+    "question": "How much tomato sauce is in this dish?",
+    "ground_truths": [
+      "2 cups",
+      "2 cups",
+      "2 cups",
+      "2 cups",
+      "half cup",
+      "half cup",
+      "1 4 cup",
+      "1 4 cup",
+      "2 cans",
+      "2 cans"
+    ],
+    "prediction": "A large amount.",
+    "stochastic_samples": [
+      "A lot of it.",
+      "A lot of tomato sauce.",
+      "A lot of tomato sauce.",
+      "A large amount."
+    ],
+    "self_consistency": 0.409,
+    "vizwiz_score": 0.0,
+    "correct": 0
+  }
+]
